@@ -1,1 +1,87 @@
 id,subdistrict_id,type,name_en,name_bn
+1010101,10101,union,Raypasha-Karapur,রায়পাশা-কড়াপুর
+1010102,10101,union,Kashipur,কাশিপুর
+1010103,10101,union,Charbaria,চরবাড়িয়া
+1010104,10101,union,Sayestabad,শায়েস্তাবাদ
+1010105,10101,union,Charmonai,চরমোনাই
+1010106,10101,union,Jagua,জাগুয়া
+1010107,10101,union,Charkaua,চরকাউয়া
+1010108,10101,union,Chandpura,চাঁদপুরা
+1010109,10101,union,Tungibaria,টুঙ্গীবাড়ীয়া
+1010110,10101,union,Chandramohan,চন্দ্রমোহন
+1010201,10102,union,Charamaddi,চরামদ্দি
+1010202,10102,union,Charadi,চরাদি
+1010203,10102,union,Durgapasha,দুর্গাপাশা
+1010204,10102,union,Darial,দাঁড়িয়াল
+1010205,10102,union,Dudhal,দুধল
+1010206,10102,union,Faridpur,ফরিদপুর
+1010207,10102,union,Kabai,কবাই
+1010208,10102,union,Nalua,নলুয়া
+1010209,10102,union,Kalaskati,কলসকাঠি
+1010210,10102,union,Garuria,গারুড়িয়া
+1010211,10102,union,Bharpasha,ভরপাশা
+1010212,10102,union,Rangashree,রঙ্গশ্রী
+1010213,10102,union,Padri Shibpur,পাদ্রীশিবপুর
+1010214,10102,union,Niamati,নিয়ামতি
+1010301,10103,union,Agarpur,আগরপুর
+1010302,10103,union,Kedarpur,কেদারপুর
+1010303,10103,union,Dehergoti,দেহেরগতি
+1010304,10103,union,Chandpasha,চাঁদপাশা
+1010305,10103,union,Rahmatpur,রহমতপুর
+1010306,10103,union,Madhabpasha,মাধবপাশা
+1010401,10104,union,Bisharkandi,বিশারকান্দি
+1010402,10104,union,Iluhar,ইলুহার
+1010403,10104,union,Sayedkati,সৈয়দকাঠি
+1010404,10104,union,Salyabakpur,সলিয়াবাকপুর
+1010405,10104,union,Baukati,বাউকাঠি
+1010406,10104,union,Banaripara Sadar,বানারীপাড়া সদর
+1010407,10104,union,Udaykati,উদয়কাঠি
+1010408,10104,union,Chakhar,চাখার
+1010501,10105,union,Khanjapur,খাঞ্জাপুর
+1010502,10105,union,Barthi,বার্থী
+1010503,10105,union,Chandshi,চাদশী
+1010504,10105,union,Mahilara,মাহিলাড়া
+1010505,10105,union,Nalcira,নলচিড়া
+1010506,10105,union,Batajor,বাটাজোর
+1010507,10105,union,Gournadi Sadar,গৌরনদী সদর
+1010601,10106,union,Rajihar,রাজিহার
+1010602,10106,union,Bakal,বাকাল
+1010603,10106,union,Bagdha,বাগধা
+1010604,10106,union,Gaila,গৈলা
+1010605,10106,union,Ratnapur,রত্নপুর
+1010701,10107,union,Harinathpur,হরিনাথপুর
+1010702,10107,union,Memaniya,মেমানিয়া
+1010703,10107,union,Guabaria,গুয়াবাড়িয়া
+1010704,10107,union,Barajalia,বড়জালিয়া
+1010705,10107,union,Hizla Gourabdi,হিজলা গৌরবদী
+1010706,10107,union,Dhulkhola,ধুলখোলা
+1010801,10108,union,Mehendiganj Sadar,মেহেন্দিগঞ্জ সদর
+1010802,10108,union,Andarmanik,আন্দারমানিক
+1010803,10108,union,Lata,লতা
+1010804,10108,union,Char Ekkaria,চরএক্করিয়া
+1010805,10108,union,North Ulania,উত্তর উলানিয়া
+1010806,10108,union,South Ulania,দক্ষিণ উলানিয়া
+1010807,10108,union,Bidyanandapur,বিদ্যানন্দপুর
+1010808,10108,union,Bhasanchar,ভাষানচর
+1010809,10108,union,Joynagar,জয়নগর
+1010810,10108,union,Chanpur,চনপুর
+1010811,10108,union,Gobindapur,গোবিন্দপুর
+1010812,10108,union,Sreepur,শ্রীপুর
+1010813,10108,union,Alimabad,আলিমাবাদ
+1010814,10108,union,Kalabadar,কালাবদর
+1010901,10109,union,Batamara,বাটামারা
+1010902,10109,union,Nazirpur,নাজিরপুর
+1010903,10109,union,Safipur,সফিপুর
+1010904,10109,union,Gachua,গাছুয়া
+1010905,10109,union,Charkalekha,চরকালেখা
+1010906,10109,union,Muladi Sadar,মুলাদী সদর
+1010907,10109,union,Kazirchar,কাজীরচর
+1011001,10110,union,Satla,সাতলা
+1011002,10110,union,Jalla,জল্লা
+1011003,10110,union,Otra,ওটরা
+1011004,10110,union,Sholak,শোলক
+1011005,10110,union,Bamrail,বামরাইল
+1011006,10110,union,Shikarpur,শিকারপুর
+1011007,10110,union,Uzirpur Sadar,উজিরপুর সদর
+1011008,10110,union,Guthia,গুঠিয়া
+1011009,10110,union,Barakotha,বরাকোঠা

@@ -1,1 +1,431 @@
-localareas: []
+localareas:
+  - id: 1010101
+    subdistrict_id: 10101
+    type: union
+    name_en: Raypasha-Karapur
+    name_bn: রায়পাশা-কড়াপুর
+  - id: 1010102
+    subdistrict_id: 10101
+    type: union
+    name_en: Kashipur
+    name_bn: কাশিপুর
+  - id: 1010103
+    subdistrict_id: 10101
+    type: union
+    name_en: Charbaria
+    name_bn: চরবাড়িয়া
+  - id: 1010104
+    subdistrict_id: 10101
+    type: union
+    name_en: Sayestabad
+    name_bn: শায়েস্তাবাদ
+  - id: 1010105
+    subdistrict_id: 10101
+    type: union
+    name_en: Charmonai
+    name_bn: চরমোনাই
+  - id: 1010106
+    subdistrict_id: 10101
+    type: union
+    name_en: Jagua
+    name_bn: জাগুয়া
+  - id: 1010107
+    subdistrict_id: 10101
+    type: union
+    name_en: Charkaua
+    name_bn: চরকাউয়া
+  - id: 1010108
+    subdistrict_id: 10101
+    type: union
+    name_en: Chandpura
+    name_bn: চাঁদপুরা
+  - id: 1010109
+    subdistrict_id: 10101
+    type: union
+    name_en: Tungibaria
+    name_bn: টুঙ্গীবাড়ীয়া
+  - id: 1010110
+    subdistrict_id: 10101
+    type: union
+    name_en: Chandramohan
+    name_bn: চন্দ্রমোহন
+  - id: 1010201
+    subdistrict_id: 10102
+    type: union
+    name_en: Charamaddi
+    name_bn: চরামদ্দি
+  - id: 1010202
+    subdistrict_id: 10102
+    type: union
+    name_en: Charadi
+    name_bn: চরাদি
+  - id: 1010203
+    subdistrict_id: 10102
+    type: union
+    name_en: Durgapasha
+    name_bn: দুর্গাপাশা
+  - id: 1010204
+    subdistrict_id: 10102
+    type: union
+    name_en: Darial
+    name_bn: দাঁড়িয়াল
+  - id: 1010205
+    subdistrict_id: 10102
+    type: union
+    name_en: Dudhal
+    name_bn: দুধল
+  - id: 1010206
+    subdistrict_id: 10102
+    type: union
+    name_en: Faridpur
+    name_bn: ফরিদপুর
+  - id: 1010207
+    subdistrict_id: 10102
+    type: union
+    name_en: Kabai
+    name_bn: কবাই
+  - id: 1010208
+    subdistrict_id: 10102
+    type: union
+    name_en: Nalua
+    name_bn: নলুয়া
+  - id: 1010209
+    subdistrict_id: 10102
+    type: union
+    name_en: Kalaskati
+    name_bn: কলসকাঠি
+  - id: 1010210
+    subdistrict_id: 10102
+    type: union
+    name_en: Garuria
+    name_bn: গারুড়িয়া
+  - id: 1010211
+    subdistrict_id: 10102
+    type: union
+    name_en: Bharpasha
+    name_bn: ভরপাশা
+  - id: 1010212
+    subdistrict_id: 10102
+    type: union
+    name_en: Rangashree
+    name_bn: রঙ্গশ্রী
+  - id: 1010213
+    subdistrict_id: 10102
+    type: union
+    name_en: Padri Shibpur
+    name_bn: পাদ্রীশিবপুর
+  - id: 1010214
+    subdistrict_id: 10102
+    type: union
+    name_en: Niamati
+    name_bn: নিয়ামতি
+  - id: 1010301
+    subdistrict_id: 10103
+    type: union
+    name_en: Agarpur
+    name_bn: আগরপুর
+  - id: 1010302
+    subdistrict_id: 10103
+    type: union
+    name_en: Kedarpur
+    name_bn: কেদারপুর
+  - id: 1010303
+    subdistrict_id: 10103
+    type: union
+    name_en: Dehergoti
+    name_bn: দেহেরগতি
+  - id: 1010304
+    subdistrict_id: 10103
+    type: union
+    name_en: Chandpasha
+    name_bn: চাঁদপাশা
+  - id: 1010305
+    subdistrict_id: 10103
+    type: union
+    name_en: Rahmatpur
+    name_bn: রহমতপুর
+  - id: 1010306
+    subdistrict_id: 10103
+    type: union
+    name_en: Madhabpasha
+    name_bn: মাধবপাশা
+  - id: 1010401
+    subdistrict_id: 10104
+    type: union
+    name_en: Bisharkandi
+    name_bn: বিশারকান্দি
+  - id: 1010402
+    subdistrict_id: 10104
+    type: union
+    name_en: Iluhar
+    name_bn: ইলুহার
+  - id: 1010403
+    subdistrict_id: 10104
+    type: union
+    name_en: Sayedkati
+    name_bn: সৈয়দকাঠি
+  - id: 1010404
+    subdistrict_id: 10104
+    type: union
+    name_en: Salyabakpur
+    name_bn: সলিয়াবাকপুর
+  - id: 1010405
+    subdistrict_id: 10104
+    type: union
+    name_en: Baukati
+    name_bn: বাউকাঠি
+  - id: 1010406
+    subdistrict_id: 10104
+    type: union
+    name_en: Banaripara Sadar
+    name_bn: বানারীপাড়া সদর
+  - id: 1010407
+    subdistrict_id: 10104
+    type: union
+    name_en: Udaykati
+    name_bn: উদয়কাঠি
+  - id: 1010408
+    subdistrict_id: 10104
+    type: union
+    name_en: Chakhar
+    name_bn: চাখার
+  - id: 1010501
+    subdistrict_id: 10105
+    type: union
+    name_en: Khanjapur
+    name_bn: খাঞ্জাপুর
+  - id: 1010502
+    subdistrict_id: 10105
+    type: union
+    name_en: Barthi
+    name_bn: বার্থী
+  - id: 1010503
+    subdistrict_id: 10105
+    type: union
+    name_en: Chandshi
+    name_bn: চাদশী
+  - id: 1010504
+    subdistrict_id: 10105
+    type: union
+    name_en: Mahilara
+    name_bn: মাহিলাড়া
+  - id: 1010505
+    subdistrict_id: 10105
+    type: union
+    name_en: Nalcira
+    name_bn: নলচিড়া
+  - id: 1010506
+    subdistrict_id: 10105
+    type: union
+    name_en: Batajor
+    name_bn: বাটাজোর
+  - id: 1010507
+    subdistrict_id: 10105
+    type: union
+    name_en: Gournadi Sadar
+    name_bn: গৌরনদী সদর
+  - id: 1010601
+    subdistrict_id: 10106
+    type: union
+    name_en: Rajihar
+    name_bn: রাজিহার
+  - id: 1010602
+    subdistrict_id: 10106
+    type: union
+    name_en: Bakal
+    name_bn: বাকাল
+  - id: 1010603
+    subdistrict_id: 10106
+    type: union
+    name_en: Bagdha
+    name_bn: বাগধা
+  - id: 1010604
+    subdistrict_id: 10106
+    type: union
+    name_en: Gaila
+    name_bn: গৈলা
+  - id: 1010605
+    subdistrict_id: 10106
+    type: union
+    name_en: Ratnapur
+    name_bn: রত্নপুর
+  - id: 1010701
+    subdistrict_id: 10107
+    type: union
+    name_en: Harinathpur
+    name_bn: হরিনাথপুর
+  - id: 1010702
+    subdistrict_id: 10107
+    type: union
+    name_en: Memaniya
+    name_bn: মেমানিয়া
+  - id: 1010703
+    subdistrict_id: 10107
+    type: union
+    name_en: Guabaria
+    name_bn: গুয়াবাড়িয়া
+  - id: 1010704
+    subdistrict_id: 10107
+    type: union
+    name_en: Barajalia
+    name_bn: বড়জালিয়া
+  - id: 1010705
+    subdistrict_id: 10107
+    type: union
+    name_en: Hizla Gourabdi
+    name_bn: হিজলা গৌরবদী
+  - id: 1010706
+    subdistrict_id: 10107
+    type: union
+    name_en: Dhulkhola
+    name_bn: ধুলখোলা
+  - id: 1010801
+    subdistrict_id: 10108
+    type: union
+    name_en: Mehendiganj Sadar
+    name_bn: মেহেন্দিগঞ্জ সদর
+  - id: 1010802
+    subdistrict_id: 10108
+    type: union
+    name_en: Andarmanik
+    name_bn: আন্দারমানিক
+  - id: 1010803
+    subdistrict_id: 10108
+    type: union
+    name_en: Lata
+    name_bn: লতা
+  - id: 1010804
+    subdistrict_id: 10108
+    type: union
+    name_en: Char Ekkaria
+    name_bn: চরএক্করিয়া
+  - id: 1010805
+    subdistrict_id: 10108
+    type: union
+    name_en: North Ulania
+    name_bn: উত্তর উলানিয়া
+  - id: 1010806
+    subdistrict_id: 10108
+    type: union
+    name_en: South Ulania
+    name_bn: দক্ষিণ উলানিয়া
+  - id: 1010807
+    subdistrict_id: 10108
+    type: union
+    name_en: Bidyanandapur
+    name_bn: বিদ্যানন্দপুর
+  - id: 1010808
+    subdistrict_id: 10108
+    type: union
+    name_en: Bhasanchar
+    name_bn: ভাষানচর
+  - id: 1010809
+    subdistrict_id: 10108
+    type: union
+    name_en: Joynagar
+    name_bn: জয়নগর
+  - id: 1010810
+    subdistrict_id: 10108
+    type: union
+    name_en: Chanpur
+    name_bn: চনপুর
+  - id: 1010811
+    subdistrict_id: 10108
+    type: union
+    name_en: Gobindapur
+    name_bn: গোবিন্দপুর
+  - id: 1010812
+    subdistrict_id: 10108
+    type: union
+    name_en: Sreepur
+    name_bn: শ্রীপুর
+  - id: 1010813
+    subdistrict_id: 10108
+    type: union
+    name_en: Alimabad
+    name_bn: আলিমাবাদ
+  - id: 1010814
+    subdistrict_id: 10108
+    type: union
+    name_en: Kalabadar
+    name_bn: কালাবদর
+  - id: 1010901
+    subdistrict_id: 10109
+    type: union
+    name_en: Batamara
+    name_bn: বাটামারা
+  - id: 1010902
+    subdistrict_id: 10109
+    type: union
+    name_en: Nazirpur
+    name_bn: নাজিরপুর
+  - id: 1010903
+    subdistrict_id: 10109
+    type: union
+    name_en: Safipur
+    name_bn: সফিপুর
+  - id: 1010904
+    subdistrict_id: 10109
+    type: union
+    name_en: Gachua
+    name_bn: গাছুয়া
+  - id: 1010905
+    subdistrict_id: 10109
+    type: union
+    name_en: Charkalekha
+    name_bn: চরকালেখা
+  - id: 1010906
+    subdistrict_id: 10109
+    type: union
+    name_en: Muladi Sadar
+    name_bn: মুলাদী সদর
+  - id: 1010907
+    subdistrict_id: 10109
+    type: union
+    name_en: Kazirchar
+    name_bn: কাজীরচর
+  - id: 1011001
+    subdistrict_id: 10110
+    type: union
+    name_en: Satla
+    name_bn: সাতলা
+  - id: 1011002
+    subdistrict_id: 10110
+    type: union
+    name_en: Jalla
+    name_bn: জল্লা
+  - id: 1011003
+    subdistrict_id: 10110
+    type: union
+    name_en: Otra
+    name_bn: ওটরা
+  - id: 1011004
+    subdistrict_id: 10110
+    type: union
+    name_en: Sholak
+    name_bn: শোলক
+  - id: 1011005
+    subdistrict_id: 10110
+    type: union
+    name_en: Bamrail
+    name_bn: বামরাইল
+  - id: 1011006
+    subdistrict_id: 10110
+    type: union
+    name_en: Shikarpur
+    name_bn: শিকারপুর
+  - id: 1011007
+    subdistrict_id: 10110
+    type: union
+    name_en: Uzirpur Sadar
+    name_bn: উজিরপুর সদর
+  - id: 1011008
+    subdistrict_id: 10110
+    type: union
+    name_en: Guthia
+    name_bn: গুঠিয়া
+  - id: 1011009
+    subdistrict_id: 10110
+    type: union
+    name_en: Barakotha
+    name_bn: বরাকোঠা
