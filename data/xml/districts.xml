@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <districts>
+    <district>
+      <id>101</id>
+      <division_id>1</division_id>
+      <name_en>Barishal</name_en>
+      <name_bn>বরিশাল</name_bn>
+    </district>
+    <district>
+      <id>102</id>
+      <division_id>1</division_id>
+      <name_en>Patuakhali</name_en>
+      <name_bn>পটুয়াখালী</name_bn>
+    </district>
+    <district>
+      <id>103</id>
+      <division_id>1</division_id>
+      <name_en>Bhola</name_en>
+      <name_bn>ভোলা</name_bn>
+    </district>
+    <district>
+      <id>104</id>
+      <division_id>1</division_id>
+      <name_en>Pirojpur</name_en>
+      <name_bn>পিরোজপুর</name_bn>
+    </district>
+    <district>
+      <id>105</id>
+      <division_id>1</division_id>
+      <name_en>Barguna</name_en>
+      <name_bn>বরগুনা</name_bn>
+    </district>
+    <district>
+      <id>106</id>
+      <division_id>1</division_id>
+      <name_en>Jhalokathi</name_en>
+      <name_bn>ঝালকাঠি</name_bn>
+    </district>
   </districts>
 </data>

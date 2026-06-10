@@ -1,4 +1,11 @@
 // District Data - Auto-generated from JSON
 import type { District } from './types.js';
 
-export const districts: District[] = [];
+export const districts: District[] = [
+  { id: 101, division_id: 1, name_en: "Barishal", name_bn: "বরিশাল" },
+  { id: 102, division_id: 1, name_en: "Patuakhali", name_bn: "পটুয়াখালী" },
+  { id: 103, division_id: 1, name_en: "Bhola", name_bn: "ভোলা" },
+  { id: 104, division_id: 1, name_en: "Pirojpur", name_bn: "পিরোজপুর" },
+  { id: 105, division_id: 1, name_en: "Barguna", name_bn: "বরগুনা" },
+  { id: 106, division_id: 1, name_en: "Jhalokathi", name_bn: "ঝালকাঠি" }
+];
