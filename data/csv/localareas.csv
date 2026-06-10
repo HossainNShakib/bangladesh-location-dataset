@@ -85,3 +85,76 @@ id,subdistrict_id,type,name_en,name_bn
 1011007,10110,union,Uzirpur Sadar,উজিরপুর সদর
 1011008,10110,union,Guthia,গুঠিয়া
 1011009,10110,union,Barakotha,বরাকোঠা
+1020101,10201,union,Laukathi,লাউকাঠি
+1020102,10201,union,Lohalia,লোহালিয়া
+1020103,10201,union,Kamalapur,কমলাপুর
+1020104,10201,union,Jainkathi,জৈনকাঠি
+1020105,10201,union,Kalikapur,কালিকাপুর
+1020106,10201,union,Badarpur,বদরপুর
+1020107,10201,union,Itbaria,ইটবাড়িয়া
+1020108,10201,union,Madarbunia,মাদারবুনিয়া
+1020109,10201,union,Choto Bighai,ছোট বিঘাই
+1020110,10201,union,Boro Bighai,বড় বিঘাই
+1020111,10201,union,Auliapur,আউলিয়াপুর
+1020112,10201,union,Marichbunia,মরিচবুনিয়া
+1020201,10202,union,Kalaiya,কালাইয়া
+1020202,10202,union,Kalishuri,কালিশুরী
+1020203,10202,union,Bauphal Sadar,বাউফল সদর
+1020204,10202,union,Kankhipasha,কাঙ্ক্ষিপাশা
+1020205,10202,union,Daspara,দাসপাড়া
+1020206,10202,union,Dhulia,ধুলিয়া
+1020207,10202,union,Boga,বগা
+1020208,10202,union,Kanakdia,কনকদিয়া
+1020209,10202,union,Madanpura,মদনপুরা
+1020210,10202,union,Nazirpur,নাজিরপুর
+1020211,10202,union,Keshabpur,কেশবপুর
+1020212,10202,union,Suryamani,সূর্য্যমনি
+1020213,10202,union,Adabaria,আদাবাড়িয়া
+1020214,10202,union,Chandrodeep,চন্দ্রদ্বীপ
+1020301,10203,union,Amkhola,আমখলা
+1020302,10203,union,Golkhali,গোলখালী
+1020303,10203,union,Galachipa Sadar,গলাচিপা সদর
+1020304,10203,union,Panpatti,পানপট্টি
+1020305,10203,union,Ratandi Taltali,রতনদি তালতলী
+1020306,10203,union,Dakua,ডাকুয়া
+1020307,10203,union,Chiknikandi,চিকনিকান্দি
+1020308,10203,union,Bakulbaria,বকুলবাড়িয়া
+1020309,10203,union,Kalagachia,কলাগাছিয়া
+1020310,10203,union,Gajalia,গজালিয়া
+1020311,10203,union,Char Biswas,চরবিশ্বাস
+1020312,10203,union,Char Kajal,চরকাজল
+1020401,10204,union,Chakamaiya,চাকামইয়া
+1020402,10204,union,Tiakhali,টিয়াখালী
+1020403,10204,union,Lalua,লালুয়া
+1020404,10204,union,Mithaganj,মিঠাগঞ্জ
+1020405,10204,union,Nilganj,নীলগঞ্জ
+1020406,10204,union,Kalapara Sadar,কলাপাড়া সদর
+1020407,10204,union,Mohipur,মহিপুর
+1020408,10204,union,Latachapli,লতাচাপলী
+1020409,10204,union,Dhulasar,ধূলাসার
+1020410,10204,union,Dalbuganj,ডালবুগঞ্জ
+1020411,10204,union,Baliatali,বালিয়াতলী
+1020412,10204,union,Champapur,চম্পাপুর
+1020501,10205,union,Madhabkhali,মাধবখালী
+1020502,10205,union,Mirzaganj Sadar,মির্জাগঞ্জ সদর
+1020503,10205,union,Amragachia,আমড়াগাছিয়া
+1020504,10205,union,Deuli Subidkhali,দেউলী সুবিদখালী
+1020505,10205,union,Kakrabunia,কাকড়াবুনিয়া
+1020506,10205,union,Majidbaria,মজিদবাড়িয়া
+1020601,10206,union,Pangashia,পাঙ্গাশিয়া
+1020602,10206,union,Angaria,অঙ্গারিয়া
+1020603,10206,union,Muradia,মুরাদিয়া
+1020604,10206,union,Lebukhali,লেবুখালী
+1020605,10206,union,Sreerampur,শ্রীরামপুর
+1020701,10207,union,Dashmina Sadar,দশমিনা সদর
+1020702,10207,union,Alipura,আলীপুর
+1020703,10207,union,Bohormpur,বহরমপুর
+1020704,10207,union,Banshbaria,বাঁশবাড়িয়া
+1020705,10207,union,Rangopaldi,রনগোপালদি
+1020706,10207,union,Char Shahjalal,চরশাহজালাল
+1020801,10208,union,Rangabali Sadar,রাঙ্গাবালী সদর
+1020802,10208,union,Choto Baisdia,ছোট বাইশদিয়া
+1020803,10208,union,Boro Baisdia,বড় বাইশদিয়া
+1020804,10208,union,Chalitabunia,চালিতাবুনিয়া
+1020805,10208,union,Charmontaz,চরমোন্তাজ
+1020806,10208,union,Moudubi,মৌডুবী

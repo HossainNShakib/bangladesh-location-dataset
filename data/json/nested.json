@@ -716,7 +716,92 @@
             "type": "upazila",
             "name_en": "Patuakhali Sadar",
             "name_bn": "পটুয়াখালী সদর",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020101,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Laukathi",
+                "name_bn": "লাউকাঠি"
+              },
+              {
+                "id": 1020102,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Lohalia",
+                "name_bn": "লোহালিয়া"
+              },
+              {
+                "id": 1020103,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Kamalapur",
+                "name_bn": "কমলাপুর"
+              },
+              {
+                "id": 1020104,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Jainkathi",
+                "name_bn": "জৈনকাঠি"
+              },
+              {
+                "id": 1020105,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Kalikapur",
+                "name_bn": "কালিকাপুর"
+              },
+              {
+                "id": 1020106,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Badarpur",
+                "name_bn": "বদরপুর"
+              },
+              {
+                "id": 1020107,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Itbaria",
+                "name_bn": "ইটবাড়িয়া"
+              },
+              {
+                "id": 1020108,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Madarbunia",
+                "name_bn": "মাদারবুনিয়া"
+              },
+              {
+                "id": 1020109,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Choto Bighai",
+                "name_bn": "ছোট বিঘাই"
+              },
+              {
+                "id": 1020110,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Boro Bighai",
+                "name_bn": "বড় বিঘাই"
+              },
+              {
+                "id": 1020111,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Auliapur",
+                "name_bn": "আউলিয়াপুর"
+              },
+              {
+                "id": 1020112,
+                "subdistrict_id": 10201,
+                "type": "union",
+                "name_en": "Marichbunia",
+                "name_bn": "মরিচবুনিয়া"
+              }
+            ]
           },
           {
             "id": 10202,
@@ -724,7 +809,106 @@
             "type": "upazila",
             "name_en": "Bauphal",
             "name_bn": "বাউফল",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020201,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Kalaiya",
+                "name_bn": "কালাইয়া"
+              },
+              {
+                "id": 1020202,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Kalishuri",
+                "name_bn": "কালিশুরী"
+              },
+              {
+                "id": 1020203,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Bauphal Sadar",
+                "name_bn": "বাউফল সদর"
+              },
+              {
+                "id": 1020204,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Kankhipasha",
+                "name_bn": "কাঙ্ক্ষিপাশা"
+              },
+              {
+                "id": 1020205,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Daspara",
+                "name_bn": "দাসপাড়া"
+              },
+              {
+                "id": 1020206,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Dhulia",
+                "name_bn": "ধুলিয়া"
+              },
+              {
+                "id": 1020207,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Boga",
+                "name_bn": "বগা"
+              },
+              {
+                "id": 1020208,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Kanakdia",
+                "name_bn": "কনকদিয়া"
+              },
+              {
+                "id": 1020209,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Madanpura",
+                "name_bn": "মদনপুরা"
+              },
+              {
+                "id": 1020210,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Nazirpur",
+                "name_bn": "নাজিরপুর"
+              },
+              {
+                "id": 1020211,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Keshabpur",
+                "name_bn": "কেশবপুর"
+              },
+              {
+                "id": 1020212,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Suryamani",
+                "name_bn": "সূর্য্যমনি"
+              },
+              {
+                "id": 1020213,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Adabaria",
+                "name_bn": "আদাবাড়িয়া"
+              },
+              {
+                "id": 1020214,
+                "subdistrict_id": 10202,
+                "type": "union",
+                "name_en": "Chandrodeep",
+                "name_bn": "চন্দ্রদ্বীপ"
+              }
+            ]
           },
           {
             "id": 10203,
@@ -732,7 +916,92 @@
             "type": "upazila",
             "name_en": "Galachipa",
             "name_bn": "গলাচিপা",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020301,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Amkhola",
+                "name_bn": "আমখলা"
+              },
+              {
+                "id": 1020302,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Golkhali",
+                "name_bn": "গোলখালী"
+              },
+              {
+                "id": 1020303,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Galachipa Sadar",
+                "name_bn": "গলাচিপা সদর"
+              },
+              {
+                "id": 1020304,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Panpatti",
+                "name_bn": "পানপট্টি"
+              },
+              {
+                "id": 1020305,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Ratandi Taltali",
+                "name_bn": "রতনদি তালতলী"
+              },
+              {
+                "id": 1020306,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Dakua",
+                "name_bn": "ডাকুয়া"
+              },
+              {
+                "id": 1020307,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Chiknikandi",
+                "name_bn": "চিকনিকান্দি"
+              },
+              {
+                "id": 1020308,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Bakulbaria",
+                "name_bn": "বকুলবাড়িয়া"
+              },
+              {
+                "id": 1020309,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Kalagachia",
+                "name_bn": "কলাগাছিয়া"
+              },
+              {
+                "id": 1020310,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Gajalia",
+                "name_bn": "গজালিয়া"
+              },
+              {
+                "id": 1020311,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Char Biswas",
+                "name_bn": "চরবিশ্বাস"
+              },
+              {
+                "id": 1020312,
+                "subdistrict_id": 10203,
+                "type": "union",
+                "name_en": "Char Kajal",
+                "name_bn": "চরকাজল"
+              }
+            ]
           },
           {
             "id": 10204,
@@ -740,7 +1009,92 @@
             "type": "upazila",
             "name_en": "Kalapara",
             "name_bn": "কলাপাড়া",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020401,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Chakamaiya",
+                "name_bn": "চাকামইয়া"
+              },
+              {
+                "id": 1020402,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Tiakhali",
+                "name_bn": "টিয়াখালী"
+              },
+              {
+                "id": 1020403,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Lalua",
+                "name_bn": "লালুয়া"
+              },
+              {
+                "id": 1020404,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Mithaganj",
+                "name_bn": "মিঠাগঞ্জ"
+              },
+              {
+                "id": 1020405,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Nilganj",
+                "name_bn": "নীলগঞ্জ"
+              },
+              {
+                "id": 1020406,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Kalapara Sadar",
+                "name_bn": "কলাপাড়া সদর"
+              },
+              {
+                "id": 1020407,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Mohipur",
+                "name_bn": "মহিপুর"
+              },
+              {
+                "id": 1020408,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Latachapli",
+                "name_bn": "লতাচাপলী"
+              },
+              {
+                "id": 1020409,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Dhulasar",
+                "name_bn": "ধূলাসার"
+              },
+              {
+                "id": 1020410,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Dalbuganj",
+                "name_bn": "ডালবুগঞ্জ"
+              },
+              {
+                "id": 1020411,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Baliatali",
+                "name_bn": "বালিয়াতলী"
+              },
+              {
+                "id": 1020412,
+                "subdistrict_id": 10204,
+                "type": "union",
+                "name_en": "Champapur",
+                "name_bn": "চম্পাপুর"
+              }
+            ]
           },
           {
             "id": 10205,
@@ -748,7 +1102,50 @@
             "type": "upazila",
             "name_en": "Mirzaganj",
             "name_bn": "মির্জাগঞ্জ",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020501,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Madhabkhali",
+                "name_bn": "মাধবখালী"
+              },
+              {
+                "id": 1020502,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Mirzaganj Sadar",
+                "name_bn": "মির্জাগঞ্জ সদর"
+              },
+              {
+                "id": 1020503,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Amragachia",
+                "name_bn": "আমড়াগাছিয়া"
+              },
+              {
+                "id": 1020504,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Deuli Subidkhali",
+                "name_bn": "দেউলী সুবিদখালী"
+              },
+              {
+                "id": 1020505,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Kakrabunia",
+                "name_bn": "কাকড়াবুনিয়া"
+              },
+              {
+                "id": 1020506,
+                "subdistrict_id": 10205,
+                "type": "union",
+                "name_en": "Majidbaria",
+                "name_bn": "মজিদবাড়িয়া"
+              }
+            ]
           },
           {
             "id": 10206,
@@ -756,7 +1153,43 @@
             "type": "upazila",
             "name_en": "Dumki",
             "name_bn": "দুমকি",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020601,
+                "subdistrict_id": 10206,
+                "type": "union",
+                "name_en": "Pangashia",
+                "name_bn": "পাঙ্গাশিয়া"
+              },
+              {
+                "id": 1020602,
+                "subdistrict_id": 10206,
+                "type": "union",
+                "name_en": "Angaria",
+                "name_bn": "অঙ্গারিয়া"
+              },
+              {
+                "id": 1020603,
+                "subdistrict_id": 10206,
+                "type": "union",
+                "name_en": "Muradia",
+                "name_bn": "মুরাদিয়া"
+              },
+              {
+                "id": 1020604,
+                "subdistrict_id": 10206,
+                "type": "union",
+                "name_en": "Lebukhali",
+                "name_bn": "লেবুখালী"
+              },
+              {
+                "id": 1020605,
+                "subdistrict_id": 10206,
+                "type": "union",
+                "name_en": "Sreerampur",
+                "name_bn": "শ্রীরামপুর"
+              }
+            ]
           },
           {
             "id": 10207,
@@ -764,7 +1197,50 @@
             "type": "upazila",
             "name_en": "Dashmina",
             "name_bn": "দশমিনা",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020701,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Dashmina Sadar",
+                "name_bn": "দশমিনা সদর"
+              },
+              {
+                "id": 1020702,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Alipura",
+                "name_bn": "আলীপুর"
+              },
+              {
+                "id": 1020703,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Bohormpur",
+                "name_bn": "বহরমপুর"
+              },
+              {
+                "id": 1020704,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Banshbaria",
+                "name_bn": "বাঁশবাড়িয়া"
+              },
+              {
+                "id": 1020705,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Rangopaldi",
+                "name_bn": "রনগোপালদি"
+              },
+              {
+                "id": 1020706,
+                "subdistrict_id": 10207,
+                "type": "union",
+                "name_en": "Char Shahjalal",
+                "name_bn": "চরশাহজালাল"
+              }
+            ]
           },
           {
             "id": 10208,
@@ -772,7 +1248,50 @@
             "type": "upazila",
             "name_en": "Rangabali",
             "name_bn": "রাঙ্গাবালী",
-            "localareas": []
+            "localareas": [
+              {
+                "id": 1020801,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Rangabali Sadar",
+                "name_bn": "রাঙ্গাবালী সদর"
+              },
+              {
+                "id": 1020802,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Choto Baisdia",
+                "name_bn": "ছোট বাইশদিয়া"
+              },
+              {
+                "id": 1020803,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Boro Baisdia",
+                "name_bn": "বড় বাইশদিয়া"
+              },
+              {
+                "id": 1020804,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Chalitabunia",
+                "name_bn": "চালিতাবুনিয়া"
+              },
+              {
+                "id": 1020805,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Charmontaz",
+                "name_bn": "চরমোন্তাজ"
+              },
+              {
+                "id": 1020806,
+                "subdistrict_id": 10208,
+                "type": "union",
+                "name_en": "Moudubi",
+                "name_bn": "মৌডুবী"
+              }
+            ]
           }
         ]
       },
