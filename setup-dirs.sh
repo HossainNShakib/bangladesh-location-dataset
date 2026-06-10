@@ -1,0 +1,10 @@
+#!/bin/bash
+mkdir -p "g:\bld\bangladesh-location-dataset\data\json"
+mkdir -p "g:\bld\bangladesh-location-dataset\data\csv"
+mkdir -p "g:\bld\bangladesh-location-dataset\data\sql"
+mkdir -p "g:\bld\bangladesh-location-dataset\data\javascript"
+mkdir -p "g:\bld\bangladesh-location-dataset\src\validators"
+mkdir -p "g:\bld\bangladesh-location-dataset\src\converters"
+mkdir -p "g:\bld\bangladesh-location-dataset\src\utils"
+mkdir -p "g:\bld\bangladesh-location-dataset\docs"
+echo "Directories created"

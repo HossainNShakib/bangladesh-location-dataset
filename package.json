@@ -1,0 +1,47 @@
+{
+  "name": "bangladesh-location-dataset",
+  "version": "1.0.0",
+  "description": "A clean, reusable Bangladesh location dataset for ecommerce, SaaS, CRM, ERP, courier, and form builder applications",
+  "main": "data/javascript/index.js",
+  "type": "module",
+  "keywords": [
+    "bangladesh",
+    "locations",
+    "divisions",
+    "districts",
+    "upazila",
+    "dataset",
+    "ecommerce",
+    "forms",
+    "address",
+    "location-data"
+  ],
+  "author": "Bangladesh Location Dataset Contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/bangladesh-location-dataset"
+  },
+  "scripts": {
+    "validate": "node src/validators/validate-data.js",
+    "build:nested": "node src/converters/build-nested.js",
+    "export:csv": "node src/converters/json-to-csv.js",
+    "export:sql": "node src/converters/json-to-sql.js",
+    "export:typescript": "node src/converters/json-to-typescript.js",
+    "export:yaml": "node src/converters/json-to-yaml.js",
+    "export:xml": "node src/converters/json-to-xml.js",
+    "export:xlsx": "node src/converters/json-to-xlsx.js",
+    "export:sqlite": "node src/converters/json-to-sqlite.js",
+    "export:postgresql": "node src/converters/json-to-postgresql.js",
+    "export:all": "npm run build:nested && npm run export:csv && npm run export:sql && npm run export:typescript && npm run export:yaml && npm run export:xml && npm run export:xlsx && npm run export:sqlite && npm run export:postgresql"
+  },
+  "devDependencies": {},
+  "files": [
+    "data/",
+    "src/",
+    "docs/",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ]
+}

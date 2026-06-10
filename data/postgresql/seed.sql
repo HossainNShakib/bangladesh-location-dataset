@@ -1,0 +1,2 @@
+-- PostgreSQL Seed Data
+-- Data will be inserted here when provided
