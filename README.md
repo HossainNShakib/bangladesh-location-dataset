@@ -146,12 +146,25 @@ bangladesh-location-dataset/
 ├── LICENSE                          # MIT License
 ├── package.json                     # NPM package info
 ├── data/
-│   ├── json/
+│   ├── json/                        # Source of truth (recommended for imports)
 │   │   ├── divisions.json          # Division list
 │   │   ├── districts.json          # District list
 │   │   ├── subdistricts.json       # SubDistrict list
 │   │   ├── localareas.json         # LocalArea list
 │   │   └── nested.json             # Full hierarchy
+│   ├── divisions/                   # Division-wise mirror (recommended for browsing)
+│   │   ├── barishal/               # Barishal Division data
+│   │   │   ├── districts.json
+│   │   │   ├── subdistricts.json
+│   │   │   ├── localareas.json
+│   │   │   └── nested.json
+│   │   ├── chattogram/
+│   │   ├── dhaka/
+│   │   ├── khulna/
+│   │   ├── mymensingh/
+│   │   ├── rajshahi/
+│   │   ├── rangpur/
+│   │   └── sylhet/
 │   ├── csv/
 │   │   ├── divisions.csv           # CSV format
 │   │   ├── districts.csv
@@ -171,9 +184,11 @@ bangladesh-location-dataset/
 │   ├── validators/
 │   │   └── validate-data.js        # Data integrity checks
 │   ├── converters/
+│   │   ├── build-nested.js         # Build nested structure
+│   │   ├── build-division-files.js # Build division-wise files
 │   │   ├── json-to-csv.js          # JSON → CSV
 │   │   ├── json-to-sql.js          # JSON → SQL
-│   │   └── build-nested.js         # Build nested structure
+│   │   └── ...
 │   └── utils/
 │       └── id-helper.js            # ID utilities
 └── docs/
@@ -182,6 +197,18 @@ bangladesh-location-dataset/
     ├── usage.md                   # Detailed usage guide
     └── examples.md                # Code examples
 ```
+
+### Data Storage Strategy
+
+**Flat Files** (`data/json/`) - Recommended for direct imports
+- JSON source of truth
+- Best for: applications needing full dataset, direct imports
+
+**Division Folders** (`data/divisions/{slug}/`) - Recommended for browsing/editing
+- Derived from flat files
+- Best for: viewing one division, editing division data, partial data loading
+
+Use `npm run build:divisions` to regenerate division files from flat JSON.
 
 ## Installation
 

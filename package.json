@@ -33,7 +33,8 @@
     "export:xlsx": "node src/converters/json-to-xlsx.js",
     "export:sqlite": "node src/converters/json-to-sqlite.js",
     "export:postgresql": "node src/converters/json-to-postgresql.js",
-    "export:all": "npm run build:nested && npm run export:csv && npm run export:sql && npm run export:typescript && npm run export:yaml && npm run export:xml && npm run export:xlsx && npm run export:sqlite && npm run export:postgresql"
+    "build:divisions": "node src/converters/build-division-files.js",
+    "export:all": "npm run build:nested && npm run build:divisions && npm run export:csv && npm run export:sql && npm run export:typescript && npm run export:yaml && npm run export:xml && npm run export:xlsx && npm run export:sqlite && npm run export:postgresql"
   },
   "devDependencies": {},
   "files": [
