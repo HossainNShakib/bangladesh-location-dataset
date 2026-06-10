@@ -158,3 +158,101 @@ id,subdistrict_id,type,name_en,name_bn
 1020804,10208,union,Chalitabunia,চালিতাবুনিয়া
 1020805,10208,union,Charmontaz,চরমোন্তাজ
 1020806,10208,union,Moudubi,মৌডুবী
+1030101,10301,union,Rajapur,রাজাপুর
+1030102,10301,union,Ilisha,ইলিশা
+1030103,10301,union,West Ilisha,পশ্চিম ইলিশা
+1030104,10301,union,Kachia,কাচিয়া
+1030105,10301,union,Bapta,বাপ্তা
+1030106,10301,union,Dhania,ধনিয়া
+1030107,10301,union,Shibpur,শিবপুর
+1030108,10301,union,Alinagar,আলীনগর
+1030109,10301,union,Charsamaiya,চড়সামাইয়া
+1030110,10301,union,Velumia,বেলুমিয়া
+1030111,10301,union,Bheduria,ভেদুরিয়া
+1030112,10301,union,North Dighaldi,উত্তর দিঘলদী
+1030113,10301,union,South Dighaldi,দক্ষিণ দিঘলদী
+1030201,10302,union,Boro Manika,বড় মানিকা
+1030202,10302,union,Deula,দেউলা
+1030203,10302,union,Kutuba,কুতুবা
+1030204,10302,union,Pokkhia,পক্ষিয়া
+1030205,10302,union,Kachia,কাচিয়া
+1030206,10302,union,Hasannagar,হাসাননগর
+1030207,10302,union,Tobgi,টবগী
+1030208,10302,union,Gangapur,গংগাপুর
+1030209,10302,union,Sachra,সাচড়া
+1030301,10303,union,Osmangonj,ওসমানগঞ্জ
+1030302,10303,union,Aslampur,আছলামপুর
+1030303,10303,union,Jinnagarh,জিন্নাগড়
+1030304,10303,union,Aminabad,আমিনাবাদ
+1030305,10303,union,Charmadraj,চরমাদ্রাজ
+1030306,10303,union,Charmanika,চরমানিকা
+1030307,10303,union,Rosulpur,রসুলপুর
+1030308,10303,union,Ewajpur,এওয়াজপুর
+1030309,10303,union,Jahanpur,জাহানপুর
+1030310,10303,union,Kukri Mukri,কুকরী মুকরী
+1030401,10304,union,Madanpur,মদনপুর
+1030402,10304,union,Medua,মেদুয়া
+1030403,10304,union,Charpata,চরপাতা
+1030404,10304,union,North Joynagar,উত্তর জয়নগর
+1030405,10304,union,South Joynagar,দক্ষিণ জয়নগর
+1030406,10304,union,Charkhalifa,চরখলিফা
+1030407,10304,union,Sayedpur,সৈয়দপুর
+1030408,10304,union,Hajipur,হাজিপুর
+1030409,10304,union,Bhabanipur,ভবানীপুর
+1030501,10305,union,Kalma,কালমা
+1030502,10305,union,Charbhuta,চরভূতা
+1030503,10305,union,Lalmohan Sadar,লালমোহন সদর
+1030504,10305,union,West Charumed,পশ্চিম চরউমেদ
+1030505,10305,union,Romaganj,রমাগঞ্জ
+1030506,10305,union,Lord Hardinge,লর্ডহার্ডিঞ্জ
+1030507,10305,union,Dhaligournagar,ধলীগৌরনগর
+1030508,10305,union,Badarpur,বদরপুর
+1030509,10305,union,Farajganj,ফরাজগঞ্জ
+1030601,10306,union,Monpura Sadar,মনপুরা সদর
+1030602,10306,union,Hajirhat,হাজীরহাট
+1030603,10306,union,North Sakuchia,উত্তর সাকুচিয়া
+1030604,10306,union,South Sakuchia,দক্ষিণ সাকুচিয়া
+1030701,10307,union,Boro Molongchora,বড় মলংচড়া
+1030702,10307,union,Sonapur,সোনাপুর
+1030703,10307,union,Chandpur,চাদঁপুর
+1030704,10307,union,Shambhupur,শম্ভুপুর
+1030705,10307,union,Chachra,চাচড়া
+1040101,10401,union,Sikdar Mallik,সিকদার মল্লিক
+1040102,10401,union,Kadamtala,কদমতলা
+1040103,10401,union,Durgapur,দুর্গাপুর
+1040104,10401,union,Kalakhali,কলাখালী
+1040105,10401,union,Tona,টোনা
+1040106,10401,union,Shariktola Dumritala,শারিকতলা ডুমরিতলা
+1040107,10401,union,Shankar Pasha,শংকর পাশা
+1040201,10402,union,Vitabaria,ভিটাবাড়িয়া
+1040202,10402,union,Nadmula-Sialkati,নদমুলা-শিয়ালকাঠী
+1040203,10402,union,Telikhali,তেলিখালী
+1040204,10402,union,Ikri,ইকড়ী
+1040205,10402,union,Dhawa,ধাওয়া
+1040206,10402,union,Bhandaria Sadar,ভান্ডারিয়া সদর
+1040207,10402,union,Gauripur,গৌরীপুর
+1040301,10403,union,Sayna Raghunathpur,সয়না রঘুনাথপুর
+1040302,10403,union,Amrajhuri,আমড়াঝুড়ি
+1040303,10403,union,Kawkhali Sadar,কাউখালী সদর
+1040304,10403,union,Chirapara Par Saturia,চিড়াপাড়া পার সাতুরিয়া
+1040305,10403,union,Sialkati,শিয়ালকাঠী
+1040401,10404,union,Tushkhali,তুষখালী
+1040402,10404,union,Dhanisafa,ধানীসাফা
+1040403,10404,union,Mirukhali,মিরুখালী
+1040404,10404,union,Daudkhali,দাউদখালী
+1040405,10404,union,Mathbaria Sadar,মঠবাড়ীয়া সদর
+1040406,10404,union,Tikikata,টিকিকাটা
+1040407,10404,union,Betmor Rajpara,বেতমোর রাজপাড়া
+1040408,10404,union,Amragachia,আমড়াগাছিয়া
+1040409,10404,union,Sapleja,শাপলেজা
+1040410,10404,union,Halta Gulishakhali,হলতা গুলিশাখালী
+1040411,10404,union,Boro Machua,বড় মাছুয়া
+1040501,10405,union,Matibhanga,মাটিভাংগা
+1040502,10405,union,Malikhali,মালিখালী
+1040503,10405,union,Deulbari Dobra,দেউলবাড়ী দোবড়া
+1040504,10405,union,Dirgha,দীর্ঘা
+1040505,10405,union,Shakarikati,শাখারীকাঠী
+1040506,10405,union,Nazirpur Sadar,নাজিরপুর সদর
+1040507,10405,union,Sekhmatia,সেখমাটিয়া
+1040508,10405,union,Sreeramkati,শ্রীরামকাঠি
+1040509,10405,union,Kolardoania,কলারদোয়ানিয়া
