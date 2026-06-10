@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <divisions>
+    <division>
+      <id>1</id>
+      <name_en>Barishal</name_en>
+      <name_bn>বরিশাল</name_bn>
+    </division>
+    <division>
+      <id>2</id>
+      <name_en>Chattogram</name_en>
+      <name_bn>চট্টগ্রাম</name_bn>
+    </division>
+    <division>
+      <id>3</id>
+      <name_en>Dhaka</name_en>
+      <name_bn>ঢাকা</name_bn>
+    </division>
+    <division>
+      <id>4</id>
+      <name_en>Khulna</name_en>
+      <name_bn>খুলনা</name_bn>
+    </division>
+    <division>
+      <id>5</id>
+      <name_en>Mymensingh</name_en>
+      <name_bn>ময়মনসিংহ</name_bn>
+    </division>
+    <division>
+      <id>6</id>
+      <name_en>Rajshahi</name_en>
+      <name_bn>রাজশাহী</name_bn>
+    </division>
+    <division>
+      <id>7</id>
+      <name_en>Rangpur</name_en>
+      <name_bn>রংপুর</name_bn>
+    </division>
+    <division>
+      <id>8</id>
+      <name_en>Sylhet</name_en>
+      <name_bn>সিলেট</name_bn>
+    </division>
   </divisions>
 </data>
