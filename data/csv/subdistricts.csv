@@ -1,1 +1,43 @@
 id,district_id,type,name_en,name_bn
+10101,101,upazila,Barishal Sadar,বরিশাল সদর
+10102,101,upazila,Bakerganj,বাকেরগঞ্জ
+10103,101,upazila,Babuganj,বাবুগঞ্জ
+10104,101,upazila,Banaripara,বানারীপাড়া
+10105,101,upazila,Gournadi,গৌরনদী
+10106,101,upazila,Agailjhara,আগৈলঝাড়া
+10107,101,upazila,Hizla,হিজলা
+10108,101,upazila,Mehendiganj,মেহেন্দিগঞ্জ
+10109,101,upazila,Muladi,মুলাদী
+10110,101,upazila,Uzirpur,উজিরপুর
+10201,102,upazila,Patuakhali Sadar,পটুয়াখালী সদর
+10202,102,upazila,Bauphal,বাউফল
+10203,102,upazila,Galachipa,গলাচিপা
+10204,102,upazila,Kalapara,কলাপাড়া
+10205,102,upazila,Mirzaganj,মির্জাগঞ্জ
+10206,102,upazila,Dumki,দুমকি
+10207,102,upazila,Dashmina,দশমিনা
+10208,102,upazila,Rangabali,রাঙ্গাবালী
+10301,103,upazila,Bhola Sadar,ভোলা সদর
+10302,103,upazila,Borhanuddin,বোরহানউদ্দিন
+10303,103,upazila,Char Fasson,চরফ্যাশন
+10304,103,upazila,Daulatkhan,দৌলতখান
+10305,103,upazila,Lalmohan,লালমোহন
+10306,103,upazila,Monpura,মনপুরা
+10307,103,upazila,Tazumuddin,তজুমদ্দিন
+10401,104,upazila,Pirojpur Sadar,পিরোজপুর সদর
+10402,104,upazila,Bhandaria,ভান্ডারিয়া
+10403,104,upazila,Kawkhali,কাউখালী
+10404,104,upazila,Mathbaria,মঠবাড়িয়া
+10405,104,upazila,Nazirpur,নাজিরপুর
+10406,104,upazila,Nesarabad,নেছারাবাদ
+10407,104,upazila,Indurkani,ইন্দুরকানি
+10501,105,upazila,Barguna Sadar,বরগুনা সদর
+10502,105,upazila,Amtali,আমতলী
+10503,105,upazila,Bamna,বামনা
+10504,105,upazila,Betagi,বেতাগী
+10505,105,upazila,Patharghata,পাথরঘাটা
+10506,105,upazila,Taltali,তালতলী
+10601,106,upazila,Jhalokathi Sadar,ঝালকাঠি সদর
+10602,106,upazila,Nalchity,নলছিটি
+10603,106,upazila,Rajapur,রাজাপুর
+10604,106,upazila,Kathalia,কাঁঠালিয়া
