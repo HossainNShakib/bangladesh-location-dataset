@@ -1284,3 +1284,73 @@ localareas:
     type: union
     name_en: Kolardoania
     name_bn: কলারদোয়ানিয়া
+  - id: 1040601
+    subdistrict_id: 10406
+    type: union
+    name_en: Nesarabad Sadar
+    name_bn: নেছারাবাদ সদর
+  - id: 1040602
+    subdistrict_id: 10406
+    type: union
+    name_en: Bajitpur
+    name_bn: বাজিতপুর
+  - id: 1040603
+    subdistrict_id: 10406
+    type: union
+    name_en: Kundarpara
+    name_bn: কুন্ডারপাড়া
+  - id: 1040604
+    subdistrict_id: 10406
+    type: union
+    name_en: Sundarkhali
+    name_bn: সুন্দরখালী
+  - id: 1040605
+    subdistrict_id: 10406
+    type: union
+    name_en: Mativanga
+    name_bn: মাতাবাংগা
+  - id: 1040606
+    subdistrict_id: 10406
+    type: union
+    name_en: Par是不ia
+    name_bn: পারুয়া
+  - id: 1040607
+    subdistrict_id: 10406
+    type: union
+    name_en: Gopalgram
+    name_bn: গোপালগ্রাম
+  - id: 1040608
+    subdistrict_id: 10406
+    type: union
+    name_en: Kolagram
+    name_bn: কলগ্রাম
+  - id: 1040609
+    subdistrict_id: 10406
+    type: union
+    name_en: Shatihat
+    name_bn: শতিহাট
+  - id: 1040701
+    subdistrict_id: 10407
+    type: union
+    name_en: Indurkani Sadar
+    name_bn: ইন্দুরকানি সদর
+  - id: 1040702
+    subdistrict_id: 10407
+    type: union
+    name_en: Bara Makr
+    name_bn: বড় মাকড়
+  - id: 1040703
+    subdistrict_id: 10407
+    type: union
+    name_en: Chhota Makr
+    name_bn: ছোট মাকড়
+  - id: 1040704
+    subdistrict_id: 10407
+    type: union
+    name_en: Kodalkati
+    name_bn: কোডলকাঠি
+  - id: 1040705
+    subdistrict_id: 10407
+    type: union
+    name_en: Ranikhat
+    name_bn: রানীকাঠি
