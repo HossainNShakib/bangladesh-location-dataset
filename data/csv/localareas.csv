@@ -270,3 +270,77 @@ id,subdistrict_id,type,name_en,name_bn
 1040703,10407,union,Chhota Makr,ছোট মাকড়
 1040704,10407,union,Kodalkati,কোডলকাঠি
 1040705,10407,union,Ranikhat,রানীকাঠি
+1050101,10501,union,Badarkhali,বদরখালী
+1050102,10501,union,Burirchar,বুড়িরচর
+1050103,10501,union,Phuljhuri,ফুলঝুড়ি
+1050104,10501,union,Keorabunia,কেওড়াবুনিয়া
+1050105,10501,union,Ayla Patakata,আয়লা পাতাকাটা
+1050106,10501,union,Barguna Sadar,বরগুনা সদর
+1050107,10501,union,Dhalua,ঢলুয়া
+1050108,10501,union,Boroitola,বরইতলা
+1050109,10501,union,M Baliatali,এম বালিয়াতলী
+1050110,10501,union,Gaurichanna,গৌরিচন্না
+1050201,10502,union,Gulishakhali,গুলিশাখালী
+1050202,10502,union,Kukua,কুকুয়া
+1050203,10502,union,Atharagachia,আঠারগাছিয়া
+1050204,10502,union,Haldia,হলদিয়া
+1050205,10502,union,Chaora,চাওড়া
+1050206,10502,union,Amtali Sadar,আমতলী সদর
+1050207,10502,union,Arpangashia,আরপাঙ্গাশিয়া
+1050301,10503,union,Bukhaitala,বুখাইতলা
+1050302,10503,union,Bamna Sadar,বামনা সদর
+1050303,10503,union,Ramna,রামনা
+1050304,10503,union,Dauatala,ডাউয়াতলা
+1050401,10504,union,Bibichini,বিবিচিনি
+1050402,10504,union,Betagi Sadar,বেতাগী সদর
+1050403,10504,union,Hosanabad,হোসনাবাদ
+1050404,10504,union,Mokamia,মোকামিয়া
+1050405,10504,union,Buramazumdar,বুড়ামজুমদার
+1050406,10504,union,Kazirabad,কাজিরাবাদ
+1050407,10504,union,Sarishamuri,সরিষামুড়ী
+1050501,10505,union,Kakchira,কাকচিড়া
+1050502,10505,union,Kathaltali,কাঁঠালতলী
+1050503,10505,union,Kalamegha,কালমেঘা
+1050504,10505,union,Patharghata Sadar,পাথরঘাটা সদর
+1050505,10505,union,Charduani,চরদুয়ানী
+1050506,10505,union,Raihanpur,রায়হানপুর
+1050507,10505,union,Nachnapara,নাচনাপাড়া
+1050601,10506,union,Amkhola,আমখলা
+1050602,10506,union,Barabagi,বড়বগী
+1050603,10506,union,Pachakoralia,পচাকোড়ালিয়া
+1050604,10506,union,Chhotobagi,ছোটবগী
+1050605,10506,union,Karaibaria,কড়ইবাড়িয়া
+1050606,10506,union,Sharikkhali,শারিকখালী
+1050607,10506,union,Nishanbaria,নিশানবাড়িয়া
+1060101,10601,union,Gava Ramchandrapur,গাভা রামচন্দ্রপুর
+1060102,10601,union,Binoykati,বিনয়কাঠী
+1060103,10601,union,Nabagram,নবগ্রাম
+1060104,10601,union,Kirtipasha,কীর্তিপাশা
+1060105,10601,union,Basanda,বাসন্ডা
+1060106,10601,union,Jhalokathi Sadar,ঝালকাঠি সদর
+1060107,10601,union,Ponabalia,পোনাবালিয়া
+1060108,10601,union,Sekherhat,শেখেরহাট
+1060109,10601,union,Nathullabad,নথুল্লাবাদ
+1060110,10601,union,Gabkhan Dhansiri,গাবখান ধানসিঁড়ি
+1060201,10602,union,Bhairabpasha,ভৈরবপাশা
+1060202,10602,union,Mogar,মগড়
+1060203,10602,union,Kulkati,কুলকাঠী
+1060204,10602,union,Ranapasha,রানাপাশা
+1060205,10602,union,Nachalmahal,নাচলমহল
+1060206,10602,union,Kushangal,কুশংগল
+1060207,10602,union,Siddhakati,সিদ্ধকাঠী
+1060208,10602,union,Dapdapia,দপদপিয়া
+1060209,10602,union,Mollarhat,মোল্লারহাট
+1060210,10602,union,Sabarkathi,সাবরকাঠী
+1060301,10603,union,Saturia,সাতুরিয়া
+1060302,10603,union,Shuktagar,শুক্তাগড়
+1060303,10603,union,Rajapur Sadar,রাজাপুর সদর
+1060304,10603,union,Galua,গালুয়া
+1060305,10603,union,Baraiya,বড়ইয়া
+1060306,10603,union,Mathbaria,মঠবাড়িয়া
+1060401,10604,union,Chechri Rampur,চেঁচরী রামপুর
+1060402,10604,union,Patikhalghata,পাটিখালঘাটা
+1060403,10604,union,Amua,আমুয়া
+1060404,10604,union,Kathalia Sadar,কাঁঠালিয়া সদর
+1060405,10604,union,Shaulajalia,শৌলজালিয়া
+1060406,10604,union,Aorabunia,আওরাবুনিয়া

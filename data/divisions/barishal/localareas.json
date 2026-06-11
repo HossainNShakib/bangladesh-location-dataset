@@ -1896,6 +1896,524 @@
       "type": "union",
       "name_en": "Ranikhat",
       "name_bn": "রানীকাঠি"
+    },
+    {
+      "id": 1050101,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Badarkhali",
+      "name_bn": "বদরখালী"
+    },
+    {
+      "id": 1050102,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Burirchar",
+      "name_bn": "বুড়িরচর"
+    },
+    {
+      "id": 1050103,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Phuljhuri",
+      "name_bn": "ফুলঝুড়ি"
+    },
+    {
+      "id": 1050104,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Keorabunia",
+      "name_bn": "কেওড়াবুনিয়া"
+    },
+    {
+      "id": 1050105,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Ayla Patakata",
+      "name_bn": "আয়লা পাতাকাটা"
+    },
+    {
+      "id": 1050106,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Barguna Sadar",
+      "name_bn": "বরগুনা সদর"
+    },
+    {
+      "id": 1050107,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Dhalua",
+      "name_bn": "ঢলুয়া"
+    },
+    {
+      "id": 1050108,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Boroitola",
+      "name_bn": "বরইতলা"
+    },
+    {
+      "id": 1050109,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "M Baliatali",
+      "name_bn": "এম বালিয়াতলী"
+    },
+    {
+      "id": 1050110,
+      "subdistrict_id": 10501,
+      "type": "union",
+      "name_en": "Gaurichanna",
+      "name_bn": "গৌরিচন্না"
+    },
+    {
+      "id": 1050201,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Gulishakhali",
+      "name_bn": "গুলিশাখালী"
+    },
+    {
+      "id": 1050202,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Kukua",
+      "name_bn": "কুকুয়া"
+    },
+    {
+      "id": 1050203,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Atharagachia",
+      "name_bn": "আঠারগাছিয়া"
+    },
+    {
+      "id": 1050204,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Haldia",
+      "name_bn": "হলদিয়া"
+    },
+    {
+      "id": 1050205,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Chaora",
+      "name_bn": "চাওড়া"
+    },
+    {
+      "id": 1050206,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Amtali Sadar",
+      "name_bn": "আমতলী সদর"
+    },
+    {
+      "id": 1050207,
+      "subdistrict_id": 10502,
+      "type": "union",
+      "name_en": "Arpangashia",
+      "name_bn": "আরপাঙ্গাশিয়া"
+    },
+    {
+      "id": 1050301,
+      "subdistrict_id": 10503,
+      "type": "union",
+      "name_en": "Bukhaitala",
+      "name_bn": "বুখাইতলা"
+    },
+    {
+      "id": 1050302,
+      "subdistrict_id": 10503,
+      "type": "union",
+      "name_en": "Bamna Sadar",
+      "name_bn": "বামনা সদর"
+    },
+    {
+      "id": 1050303,
+      "subdistrict_id": 10503,
+      "type": "union",
+      "name_en": "Ramna",
+      "name_bn": "রামনা"
+    },
+    {
+      "id": 1050304,
+      "subdistrict_id": 10503,
+      "type": "union",
+      "name_en": "Dauatala",
+      "name_bn": "ডাউয়াতলা"
+    },
+    {
+      "id": 1050401,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Bibichini",
+      "name_bn": "বিবিচিনি"
+    },
+    {
+      "id": 1050402,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Betagi Sadar",
+      "name_bn": "বেতাগী সদর"
+    },
+    {
+      "id": 1050403,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Hosanabad",
+      "name_bn": "হোসনাবাদ"
+    },
+    {
+      "id": 1050404,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Mokamia",
+      "name_bn": "মোকামিয়া"
+    },
+    {
+      "id": 1050405,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Buramazumdar",
+      "name_bn": "বুড়ামজুমদার"
+    },
+    {
+      "id": 1050406,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Kazirabad",
+      "name_bn": "কাজিরাবাদ"
+    },
+    {
+      "id": 1050407,
+      "subdistrict_id": 10504,
+      "type": "union",
+      "name_en": "Sarishamuri",
+      "name_bn": "সরিষামুড়ী"
+    },
+    {
+      "id": 1050501,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Kakchira",
+      "name_bn": "কাকচিড়া"
+    },
+    {
+      "id": 1050502,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Kathaltali",
+      "name_bn": "কাঁঠালতলী"
+    },
+    {
+      "id": 1050503,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Kalamegha",
+      "name_bn": "কালমেঘা"
+    },
+    {
+      "id": 1050504,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Patharghata Sadar",
+      "name_bn": "পাথরঘাটা সদর"
+    },
+    {
+      "id": 1050505,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Charduani",
+      "name_bn": "চরদুয়ানী"
+    },
+    {
+      "id": 1050506,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Raihanpur",
+      "name_bn": "রায়হানপুর"
+    },
+    {
+      "id": 1050507,
+      "subdistrict_id": 10505,
+      "type": "union",
+      "name_en": "Nachnapara",
+      "name_bn": "নাচনাপাড়া"
+    },
+    {
+      "id": 1050601,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Amkhola",
+      "name_bn": "আমখলা"
+    },
+    {
+      "id": 1050602,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Barabagi",
+      "name_bn": "বড়বগী"
+    },
+    {
+      "id": 1050603,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Pachakoralia",
+      "name_bn": "পচাকোড়ালিয়া"
+    },
+    {
+      "id": 1050604,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Chhotobagi",
+      "name_bn": "ছোটবগী"
+    },
+    {
+      "id": 1050605,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Karaibaria",
+      "name_bn": "কড়ইবাড়িয়া"
+    },
+    {
+      "id": 1050606,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Sharikkhali",
+      "name_bn": "শারিকখালী"
+    },
+    {
+      "id": 1050607,
+      "subdistrict_id": 10506,
+      "type": "union",
+      "name_en": "Nishanbaria",
+      "name_bn": "নিশানবাড়িয়া"
+    },
+    {
+      "id": 1060101,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Gava Ramchandrapur",
+      "name_bn": "গাভা রামচন্দ্রপুর"
+    },
+    {
+      "id": 1060102,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Binoykati",
+      "name_bn": "বিনয়কাঠী"
+    },
+    {
+      "id": 1060103,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Nabagram",
+      "name_bn": "নবগ্রাম"
+    },
+    {
+      "id": 1060104,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Kirtipasha",
+      "name_bn": "কীর্তিপাশা"
+    },
+    {
+      "id": 1060105,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Basanda",
+      "name_bn": "বাসন্ডা"
+    },
+    {
+      "id": 1060106,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Jhalokathi Sadar",
+      "name_bn": "ঝালকাঠি সদর"
+    },
+    {
+      "id": 1060107,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Ponabalia",
+      "name_bn": "পোনাবালিয়া"
+    },
+    {
+      "id": 1060108,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Sekherhat",
+      "name_bn": "শেখেরহাট"
+    },
+    {
+      "id": 1060109,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Nathullabad",
+      "name_bn": "নথুল্লাবাদ"
+    },
+    {
+      "id": 1060110,
+      "subdistrict_id": 10601,
+      "type": "union",
+      "name_en": "Gabkhan Dhansiri",
+      "name_bn": "গাবখান ধানসিঁড়ি"
+    },
+    {
+      "id": 1060201,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Bhairabpasha",
+      "name_bn": "ভৈরবপাশা"
+    },
+    {
+      "id": 1060202,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Mogar",
+      "name_bn": "মগড়"
+    },
+    {
+      "id": 1060203,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Kulkati",
+      "name_bn": "কুলকাঠী"
+    },
+    {
+      "id": 1060204,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Ranapasha",
+      "name_bn": "রানাপাশা"
+    },
+    {
+      "id": 1060205,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Nachalmahal",
+      "name_bn": "নাচলমহল"
+    },
+    {
+      "id": 1060206,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Kushangal",
+      "name_bn": "কুশংগল"
+    },
+    {
+      "id": 1060207,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Siddhakati",
+      "name_bn": "সিদ্ধকাঠী"
+    },
+    {
+      "id": 1060208,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Dapdapia",
+      "name_bn": "দপদপিয়া"
+    },
+    {
+      "id": 1060209,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Mollarhat",
+      "name_bn": "মোল্লারহাট"
+    },
+    {
+      "id": 1060210,
+      "subdistrict_id": 10602,
+      "type": "union",
+      "name_en": "Sabarkathi",
+      "name_bn": "সাবরকাঠী"
+    },
+    {
+      "id": 1060301,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Saturia",
+      "name_bn": "সাতুরিয়া"
+    },
+    {
+      "id": 1060302,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Shuktagar",
+      "name_bn": "শুক্তাগড়"
+    },
+    {
+      "id": 1060303,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Rajapur Sadar",
+      "name_bn": "রাজাপুর সদর"
+    },
+    {
+      "id": 1060304,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Galua",
+      "name_bn": "গালুয়া"
+    },
+    {
+      "id": 1060305,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Baraiya",
+      "name_bn": "বড়ইয়া"
+    },
+    {
+      "id": 1060306,
+      "subdistrict_id": 10603,
+      "type": "union",
+      "name_en": "Mathbaria",
+      "name_bn": "মঠবাড়িয়া"
+    },
+    {
+      "id": 1060401,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Chechri Rampur",
+      "name_bn": "চেঁচরী রামপুর"
+    },
+    {
+      "id": 1060402,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Patikhalghata",
+      "name_bn": "পাটিখালঘাটা"
+    },
+    {
+      "id": 1060403,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Amua",
+      "name_bn": "আমুয়া"
+    },
+    {
+      "id": 1060404,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Kathalia Sadar",
+      "name_bn": "কাঁঠালিয়া সদর"
+    },
+    {
+      "id": 1060405,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Shaulajalia",
+      "name_bn": "শৌলজালিয়া"
+    },
+    {
+      "id": 1060406,
+      "subdistrict_id": 10604,
+      "type": "union",
+      "name_en": "Aorabunia",
+      "name_bn": "আওরাবুনিয়া"
     }
   ]
 }

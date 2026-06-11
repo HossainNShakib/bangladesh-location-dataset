@@ -272,5 +272,79 @@
     <localarea><id>1040703</id><subdistrict_id>10407</subdistrict_id><type>union</type><name_en>Chhota Makr</name_en><name_bn>ছোট মাকড়</name_bn></localarea>
     <localarea><id>1040704</id><subdistrict_id>10407</subdistrict_id><type>union</type><name_en>Kodalkati</name_en><name_bn>কোডলকাঠি</name_bn></localarea>
     <localarea><id>1040705</id><subdistrict_id>10407</subdistrict_id><type>union</type><name_en>Ranikhat</name_en><name_bn>রানীকাঠি</name_bn></localarea>
+    <localarea><id>1050101</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Badarkhali</name_en><name_bn>বদরখালী</name_bn></localarea>
+    <localarea><id>1050102</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Burirchar</name_en><name_bn>বুড়িরচর</name_bn></localarea>
+    <localarea><id>1050103</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Phuljhuri</name_en><name_bn>ফুলঝুড়ি</name_bn></localarea>
+    <localarea><id>1050104</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Keorabunia</name_en><name_bn>কেওড়াবুনিয়া</name_bn></localarea>
+    <localarea><id>1050105</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Ayla Patakata</name_en><name_bn>আয়লা পাতাকাটা</name_bn></localarea>
+    <localarea><id>1050106</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Barguna Sadar</name_en><name_bn>বরগুনা সদর</name_bn></localarea>
+    <localarea><id>1050107</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Dhalua</name_en><name_bn>ঢলুয়া</name_bn></localarea>
+    <localarea><id>1050108</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Boroitola</name_en><name_bn>বরইতলা</name_bn></localarea>
+    <localarea><id>1050109</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>M Baliatali</name_en><name_bn>এম বালিয়াতলী</name_bn></localarea>
+    <localarea><id>1050110</id><subdistrict_id>10501</subdistrict_id><type>union</type><name_en>Gaurichanna</name_en><name_bn>গৌরিচন্না</name_bn></localarea>
+    <localarea><id>1050201</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Gulishakhali</name_en><name_bn>গুলিশাখালী</name_bn></localarea>
+    <localarea><id>1050202</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Kukua</name_en><name_bn>কুকুয়া</name_bn></localarea>
+    <localarea><id>1050203</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Atharagachia</name_en><name_bn>আঠারগাছিয়া</name_bn></localarea>
+    <localarea><id>1050204</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Haldia</name_en><name_bn>হলদিয়া</name_bn></localarea>
+    <localarea><id>1050205</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Chaora</name_en><name_bn>চাওড়া</name_bn></localarea>
+    <localarea><id>1050206</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Amtali Sadar</name_en><name_bn>আমতলী সদর</name_bn></localarea>
+    <localarea><id>1050207</id><subdistrict_id>10502</subdistrict_id><type>union</type><name_en>Arpangashia</name_en><name_bn>আরপাঙ্গাশিয়া</name_bn></localarea>
+    <localarea><id>1050301</id><subdistrict_id>10503</subdistrict_id><type>union</type><name_en>Bukhaitala</name_en><name_bn>বুখাইতলা</name_bn></localarea>
+    <localarea><id>1050302</id><subdistrict_id>10503</subdistrict_id><type>union</type><name_en>Bamna Sadar</name_en><name_bn>বামনা সদর</name_bn></localarea>
+    <localarea><id>1050303</id><subdistrict_id>10503</subdistrict_id><type>union</type><name_en>Ramna</name_en><name_bn>রামনা</name_bn></localarea>
+    <localarea><id>1050304</id><subdistrict_id>10503</subdistrict_id><type>union</type><name_en>Dauatala</name_en><name_bn>ডাউয়াতলা</name_bn></localarea>
+    <localarea><id>1050401</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Bibichini</name_en><name_bn>বিবিচিনি</name_bn></localarea>
+    <localarea><id>1050402</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Betagi Sadar</name_en><name_bn>বেতাগী সদর</name_bn></localarea>
+    <localarea><id>1050403</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Hosanabad</name_en><name_bn>হোসনাবাদ</name_bn></localarea>
+    <localarea><id>1050404</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Mokamia</name_en><name_bn>মোকামিয়া</name_bn></localarea>
+    <localarea><id>1050405</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Buramazumdar</name_en><name_bn>বুড়ামজুমদার</name_bn></localarea>
+    <localarea><id>1050406</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Kazirabad</name_en><name_bn>কাজিরাবাদ</name_bn></localarea>
+    <localarea><id>1050407</id><subdistrict_id>10504</subdistrict_id><type>union</type><name_en>Sarishamuri</name_en><name_bn>সরিষামুড়ী</name_bn></localarea>
+    <localarea><id>1050501</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Kakchira</name_en><name_bn>কাকচিড়া</name_bn></localarea>
+    <localarea><id>1050502</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Kathaltali</name_en><name_bn>কাঁঠালতলী</name_bn></localarea>
+    <localarea><id>1050503</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Kalamegha</name_en><name_bn>কালমেঘা</name_bn></localarea>
+    <localarea><id>1050504</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Patharghata Sadar</name_en><name_bn>পাথরঘাটা সদর</name_bn></localarea>
+    <localarea><id>1050505</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Charduani</name_en><name_bn>চরদুয়ানী</name_bn></localarea>
+    <localarea><id>1050506</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Raihanpur</name_en><name_bn>রায়হানপুর</name_bn></localarea>
+    <localarea><id>1050507</id><subdistrict_id>10505</subdistrict_id><type>union</type><name_en>Nachnapara</name_en><name_bn>নাচনাপাড়া</name_bn></localarea>
+    <localarea><id>1050601</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Amkhola</name_en><name_bn>আমখলা</name_bn></localarea>
+    <localarea><id>1050602</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Barabagi</name_en><name_bn>বড়বগী</name_bn></localarea>
+    <localarea><id>1050603</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Pachakoralia</name_en><name_bn>পচাকোড়ালিয়া</name_bn></localarea>
+    <localarea><id>1050604</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Chhotobagi</name_en><name_bn>ছোটবগী</name_bn></localarea>
+    <localarea><id>1050605</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Karaibaria</name_en><name_bn>কড়ইবাড়িয়া</name_bn></localarea>
+    <localarea><id>1050606</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Sharikkhali</name_en><name_bn>শারিকখালী</name_bn></localarea>
+    <localarea><id>1050607</id><subdistrict_id>10506</subdistrict_id><type>union</type><name_en>Nishanbaria</name_en><name_bn>নিশানবাড়িয়া</name_bn></localarea>
+    <localarea><id>1060101</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Gava Ramchandrapur</name_en><name_bn>গাভা রামচন্দ্রপুর</name_bn></localarea>
+    <localarea><id>1060102</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Binoykati</name_en><name_bn>বিনয়কাঠী</name_bn></localarea>
+    <localarea><id>1060103</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Nabagram</name_en><name_bn>নবগ্রাম</name_bn></localarea>
+    <localarea><id>1060104</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Kirtipasha</name_en><name_bn>কীর্তিপাশা</name_bn></localarea>
+    <localarea><id>1060105</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Basanda</name_en><name_bn>বাসন্ডা</name_bn></localarea>
+    <localarea><id>1060106</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Jhalokathi Sadar</name_en><name_bn>ঝালকাঠি সদর</name_bn></localarea>
+    <localarea><id>1060107</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Ponabalia</name_en><name_bn>পোনাবালিয়া</name_bn></localarea>
+    <localarea><id>1060108</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Sekherhat</name_en><name_bn>শেখেরহাট</name_bn></localarea>
+    <localarea><id>1060109</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Nathullabad</name_en><name_bn>নথুল্লাবাদ</name_bn></localarea>
+    <localarea><id>1060110</id><subdistrict_id>10601</subdistrict_id><type>union</type><name_en>Gabkhan Dhansiri</name_en><name_bn>গাবখান ধানসিঁড়ি</name_bn></localarea>
+    <localarea><id>1060201</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Bhairabpasha</name_en><name_bn>ভৈরবপাশা</name_bn></localarea>
+    <localarea><id>1060202</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Mogar</name_en><name_bn>মগড়</name_bn></localarea>
+    <localarea><id>1060203</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Kulkati</name_en><name_bn>কুলকাঠী</name_bn></localarea>
+    <localarea><id>1060204</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Ranapasha</name_en><name_bn>রানাপাশা</name_bn></localarea>
+    <localarea><id>1060205</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Nachalmahal</name_en><name_bn>নাচলমহল</name_bn></localarea>
+    <localarea><id>1060206</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Kushangal</name_en><name_bn>কুশংগল</name_bn></localarea>
+    <localarea><id>1060207</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Siddhakati</name_en><name_bn>সিদ্ধকাঠী</name_bn></localarea>
+    <localarea><id>1060208</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Dapdapia</name_en><name_bn>দপদপিয়া</name_bn></localarea>
+    <localarea><id>1060209</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Mollarhat</name_en><name_bn>মোল্লারহাট</name_bn></localarea>
+    <localarea><id>1060210</id><subdistrict_id>10602</subdistrict_id><type>union</type><name_en>Sabarkathi</name_en><name_bn>সাবরকাঠী</name_bn></localarea>
+    <localarea><id>1060301</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Saturia</name_en><name_bn>সাতুরিয়া</name_bn></localarea>
+    <localarea><id>1060302</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Shuktagar</name_en><name_bn>শুক্তাগড়</name_bn></localarea>
+    <localarea><id>1060303</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Rajapur Sadar</name_en><name_bn>রাজাপুর সদর</name_bn></localarea>
+    <localarea><id>1060304</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Galua</name_en><name_bn>গালুয়া</name_bn></localarea>
+    <localarea><id>1060305</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Baraiya</name_en><name_bn>বড়ইয়া</name_bn></localarea>
+    <localarea><id>1060306</id><subdistrict_id>10603</subdistrict_id><type>union</type><name_en>Mathbaria</name_en><name_bn>মঠবাড়িয়া</name_bn></localarea>
+    <localarea><id>1060401</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Chechri Rampur</name_en><name_bn>চেঁচরী রামপুর</name_bn></localarea>
+    <localarea><id>1060402</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Patikhalghata</name_en><name_bn>পাটিখালঘাটা</name_bn></localarea>
+    <localarea><id>1060403</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Amua</name_en><name_bn>আমুয়া</name_bn></localarea>
+    <localarea><id>1060404</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Kathalia Sadar</name_en><name_bn>কাঁঠালিয়া সদর</name_bn></localarea>
+    <localarea><id>1060405</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Shaulajalia</name_en><name_bn>শৌলজালিয়া</name_bn></localarea>
+    <localarea><id>1060406</id><subdistrict_id>10604</subdistrict_id><type>union</type><name_en>Aorabunia</name_en><name_bn>আওরাবুনিয়া</name_bn></localarea>
   </localareas>
 </data>
