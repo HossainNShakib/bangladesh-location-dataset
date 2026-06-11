@@ -190,7 +190,7 @@ SELECT * FROM divisions;
 
 ## 🚀 Next Steps (Future Enhancements)
 
-1. Add remaining 7 divisions (Chattogram, Dhaka, Khulna, etc.)
+1. Add remaining 7 divisions (Chittagong, Dhaka, Khulna, etc.)
 2. Complete data for all 64 districts
 3. Add all subdistricts and local areas
 4. Create API endpoint for easy access

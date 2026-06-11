@@ -7,7 +7,7 @@ const __dirname = path.dirname(__filename);
 
 const divisionsSlug = {
   1: 'barishal',
-  2: 'chattogram',
+  2: 'chittagong',
   3: 'dhaka',
   4: 'khulna',
   5: 'mymensingh',

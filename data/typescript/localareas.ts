@@ -1,4 +1,4 @@
-// LocalArea Data - Auto-generated from JSON
+// Auto-generated from localareas.json
 import type { LocalArea } from './types.js';
 
 export const localareas: LocalArea[] = [

@@ -29,7 +29,7 @@ bangladesh-location-dataset/
 | Division | Districts | Subdistricts | LocalAreas | Status |
 |----------|-----------|--------------|-------------|--------|
 | Barishal (1) | 6 | 42 | 345 | ✅ Complete |
-| Chattogram (2) | - | - | - | In Progress |
+| Chittagong (2) | - | - | - | In Progress |
 | Dhaka (3) | - | - | - | In Progress |
 | Khulna (4) | - | - | - | In Progress |
 | Mymensingh (5) | - | - | - | In Progress |
@@ -74,7 +74,7 @@ data/divisions/
 │   ├── subdistricts.json
 │   ├── localareas.json
 │   └── nested.json
-├── chattogram/
+├── chittagong/
 ├── dhaka/
 ├── khulna/
 ├── mymensingh/

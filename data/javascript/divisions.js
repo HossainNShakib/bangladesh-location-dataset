@@ -1,7 +1,7 @@
 // Division Data Export
 export const divisions = [
   { id: 1, name_en: "Barishal", name_bn: "বরিশাল" },
-  { id: 2, name_en: "Chattogram", name_bn: "চট্টগ্রাম" },
+  { id: 2, name_en: "Chittagong", name_bn: "চট্টগ্রাম" },
   { id: 3, name_en: "Dhaka", name_bn: "ঢাকা" },
   { id: 4, name_en: "Khulna", name_bn: "খুলনা" },
   { id: 5, name_en: "Mymensingh", name_bn: "ময়মনসিংহ" },

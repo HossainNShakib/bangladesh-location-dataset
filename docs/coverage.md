@@ -3,7 +3,7 @@
 | Division   | Status        |
 | ---------- | ------------- |
 | Barishal   | ✅ Complete    |
-| Chattogram | ⬜ Not Started |
+| Chittagong | ⬜ Not Started |
 | Dhaka      | ⬜ Not Started |
 | Khulna     | ⬜ Not Started |
 | Mymensingh | ⬜ Not Started |

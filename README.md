@@ -161,7 +161,7 @@ bangladesh-location-dataset/
 │   │   │   ├── subdistricts.json
 │   │   │   ├── localareas.json
 │   │   │   └── nested.json
-│   │   ├── chattogram/
+│   │   ├── chittagong/
 │   │   ├── dhaka/
 │   │   ├── khulna/
 │   │   ├── mymensingh/
@@ -270,7 +270,7 @@ For detailed coverage information, see [docs/coverage.md](docs/coverage.md).
 | Division | Districts | Subdistricts | LocalAreas |
 |----------|----------|--------------|------------|
 | **Barishal** (1) | 6 | 42 | 345 |
-| Chattogram (2) | - | - | - |
+| Chittagong (2) | - | - | - |
 | Dhaka (3) | - | - | - |
 | Khulna (4) | - | - | - |
 | Mymensingh (5) | - | - | - |
@@ -286,7 +286,7 @@ For detailed coverage information, see [docs/coverage.md](docs/coverage.md).
 
 ### In Progress
 
-Remaining 7 divisions (Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet) contain structure only. Full data coming soon.
+Remaining 7 divisions (Chittagong, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet) contain structure only. Full data coming soon.
 
 ## Support
 
