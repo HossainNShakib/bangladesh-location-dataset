@@ -2,298 +2,739 @@
 <data>
   <subdistricts>
     <subdistrict>
-      <id>10101</id>
-      <district_id>101</district_id>
-      <type>upazila</type>
-      <name_en>Barishal Sadar</name_en>
-      <name_bn>বরিশাল সদর</name_bn>
+      <id>20101</id>
+      <district_id>201</district_id>
+      <type>thana</type>
+      <name_en>Chittagong City Corporation</name_en>
+      <name_bn>চট্টগ্রাম সিটি কর্পোরেশন</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10102</id>
-      <district_id>101</district_id>
+      <id>20102</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Bakerganj</name_en>
-      <name_bn>বাকেরগঞ্জ</name_bn>
+      <name_en>Patiya</name_en>
+      <name_bn>পটিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10103</id>
-      <district_id>101</district_id>
+      <id>20103</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Babuganj</name_en>
-      <name_bn>বাবুগঞ্জ</name_bn>
+      <name_en>Hathazari</name_en>
+      <name_bn>হাটহাজারী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10104</id>
-      <district_id>101</district_id>
+      <id>20104</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Banaripara</name_en>
-      <name_bn>বানারীপাড়া</name_bn>
+      <name_en>Anwara</name_en>
+      <name_bn>আনোয়ারা</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10105</id>
-      <district_id>101</district_id>
+      <id>20105</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Gournadi</name_en>
-      <name_bn>গৌরনদী</name_bn>
+      <name_en>Boalkhali</name_en>
+      <name_bn>বোয়ালখালী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10106</id>
-      <district_id>101</district_id>
+      <id>20106</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Agailjhara</name_en>
-      <name_bn>আগৈলঝাড়া</name_bn>
+      <name_en>Chandanaish</name_en>
+      <name_bn>চন্দনাইশ</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10107</id>
-      <district_id>101</district_id>
+      <id>20107</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Hizla</name_en>
-      <name_bn>হিজলা</name_bn>
+      <name_en>Satkania</name_en>
+      <name_bn>সাতকানিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10108</id>
-      <district_id>101</district_id>
+      <id>20108</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Mehendiganj</name_en>
-      <name_bn>মেহেন্দিগঞ্জ</name_bn>
+      <name_en>Lohagara</name_en>
+      <name_bn>লোহাগাড়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10109</id>
-      <district_id>101</district_id>
+      <id>20109</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Muladi</name_en>
-      <name_bn>মুলাদী</name_bn>
+      <name_en>Rangunia</name_en>
+      <name_bn>রাঙ্গুনিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10110</id>
-      <district_id>101</district_id>
+      <id>20110</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Uzirpur</name_en>
-      <name_bn>উজিরপুর</name_bn>
+      <name_en>Raozan</name_en>
+      <name_bn>রাউজান</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10201</id>
-      <district_id>102</district_id>
+      <id>20111</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Patuakhali Sadar</name_en>
-      <name_bn>পটুয়াখালী সদর</name_bn>
+      <name_en>Sitakunda</name_en>
+      <name_bn>সীতাকুণ্ড</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10202</id>
-      <district_id>102</district_id>
+      <id>20112</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Bauphal</name_en>
-      <name_bn>বাউফল</name_bn>
+      <name_en>Mirsharai</name_en>
+      <name_bn>মীরসরাই</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10203</id>
-      <district_id>102</district_id>
+      <id>20113</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Galachipa</name_en>
-      <name_bn>গলাচিপা</name_bn>
+      <name_en>Sandwip</name_en>
+      <name_bn>সন্দ্বীপ</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10204</id>
-      <district_id>102</district_id>
+      <id>20114</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Kalapara</name_en>
-      <name_bn>কলাপাড়া</name_bn>
+      <name_en>Fatikchhari</name_en>
+      <name_bn>ফটিকছড়ি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10205</id>
-      <district_id>102</district_id>
+      <id>20115</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Mirzaganj</name_en>
-      <name_bn>মির্জাগঞ্জ</name_bn>
+      <name_en>Banshkhali</name_en>
+      <name_bn>বাঁশখালী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10206</id>
-      <district_id>102</district_id>
+      <id>20116</id>
+      <district_id>201</district_id>
       <type>upazila</type>
-      <name_en>Dumki</name_en>
-      <name_bn>দুমকি</name_bn>
+      <name_en>Karnaphuli</name_en>
+      <name_bn>কর্ণফুলী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10207</id>
-      <district_id>102</district_id>
+      <id>20201</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Dashmina</name_en>
-      <name_bn>দশমিনা</name_bn>
+      <name_en>Cox's Bazar Sadar</name_en>
+      <name_bn>কক্সবাজার সদর</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10208</id>
-      <district_id>102</district_id>
+      <id>20202</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Rangabali</name_en>
-      <name_bn>রাঙ্গাবালী</name_bn>
+      <name_en>Chakaria</name_en>
+      <name_bn>চকরিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10301</id>
-      <district_id>103</district_id>
+      <id>20203</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Bhola Sadar</name_en>
-      <name_bn>ভোলা সদর</name_bn>
+      <name_en>Teknaf</name_en>
+      <name_bn>টেকনাফ</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10302</id>
-      <district_id>103</district_id>
+      <id>20204</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Borhanuddin</name_en>
-      <name_bn>বোরহানউদ্দিন</name_bn>
+      <name_en>Ukhia</name_en>
+      <name_bn>উখিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10303</id>
-      <district_id>103</district_id>
+      <id>20205</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Char Fasson</name_en>
-      <name_bn>চরফ্যাশন</name_bn>
+      <name_en>Ramu</name_en>
+      <name_bn>রামু</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10304</id>
-      <district_id>103</district_id>
+      <id>20206</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Daulatkhan</name_en>
-      <name_bn>দৌলতখান</name_bn>
+      <name_en>Pekua</name_en>
+      <name_bn>পেকুয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10305</id>
-      <district_id>103</district_id>
+      <id>20207</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Lalmohan</name_en>
-      <name_bn>লালমোহন</name_bn>
+      <name_en>Maheshkhali</name_en>
+      <name_bn>মহেশখালী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10306</id>
-      <district_id>103</district_id>
+      <id>20208</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Monpura</name_en>
-      <name_bn>মনপুরা</name_bn>
+      <name_en>Kutubdia</name_en>
+      <name_bn>কুতুবদিয়া</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10307</id>
-      <district_id>103</district_id>
+      <id>20209</id>
+      <district_id>202</district_id>
       <type>upazila</type>
-      <name_en>Tazumuddin</name_en>
-      <name_bn>তজুমদ্দিন</name_bn>
+      <name_en>Eidgaon</name_en>
+      <name_bn>ঈদগাঁও</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10401</id>
-      <district_id>104</district_id>
+      <id>20301</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Pirojpur Sadar</name_en>
-      <name_bn>পিরোজপুর সদর</name_bn>
+      <name_en>Rangamati Sadar</name_en>
+      <name_bn>রাঙামাটি সদর</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10402</id>
-      <district_id>104</district_id>
+      <id>20302</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Bhandaria</name_en>
-      <name_bn>ভান্ডারিয়া</name_bn>
+      <name_en>Kaptai</name_en>
+      <name_bn>কাপ্তাই</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10403</id>
-      <district_id>104</district_id>
+      <id>20303</id>
+      <district_id>203</district_id>
       <type>upazila</type>
       <name_en>Kawkhali</name_en>
       <name_bn>কাউখালী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10404</id>
-      <district_id>104</district_id>
+      <id>20304</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Mathbaria</name_en>
-      <name_bn>মঠবাড়িয়া</name_bn>
+      <name_en>Baghaichhari</name_en>
+      <name_bn>বাঘাইছড়ি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10405</id>
-      <district_id>104</district_id>
+      <id>20305</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Nazirpur</name_en>
-      <name_bn>নাজিরপুর</name_bn>
+      <name_en>Barkal</name_en>
+      <name_bn>বরকল</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10406</id>
-      <district_id>104</district_id>
+      <id>20306</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Nesarabad</name_en>
-      <name_bn>নেছারাবাদ</name_bn>
+      <name_en>Jurachhari</name_en>
+      <name_bn>জুরাছড়ি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10407</id>
-      <district_id>104</district_id>
+      <id>20307</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Indurkani</name_en>
-      <name_bn>ইন্দুরকানি</name_bn>
+      <name_en>Longadu</name_en>
+      <name_bn>লংগদু</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10501</id>
-      <district_id>105</district_id>
+      <id>20308</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Barguna Sadar</name_en>
-      <name_bn>বরগুনা সদর</name_bn>
+      <name_en>Naniarchar</name_en>
+      <name_bn>নানিয়ারচর</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10502</id>
-      <district_id>105</district_id>
+      <id>20309</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Amtali</name_en>
-      <name_bn>আমতলী</name_bn>
+      <name_en>Rajasthali</name_en>
+      <name_bn>রাজস্থলী</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10503</id>
-      <district_id>105</district_id>
+      <id>20310</id>
+      <district_id>203</district_id>
       <type>upazila</type>
-      <name_en>Bamna</name_en>
-      <name_bn>বামনা</name_bn>
+      <name_en>Belaichhari</name_en>
+      <name_bn>বেলাছড়ি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10504</id>
-      <district_id>105</district_id>
+      <id>20401</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Betagi</name_en>
-      <name_bn>বেতাগী</name_bn>
+      <name_en>Bandarban Sadar</name_en>
+      <name_bn>বান্দরবান সদর</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10505</id>
-      <district_id>105</district_id>
+      <id>20402</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Patharghata</name_en>
-      <name_bn>পাথরঘাটা</name_bn>
+      <name_en>Ruma</name_en>
+      <name_bn>রুমা</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10506</id>
-      <district_id>105</district_id>
+      <id>20403</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Taltali</name_en>
-      <name_bn>তালতলী</name_bn>
+      <name_en>Thanchi</name_en>
+      <name_bn>থানচি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10601</id>
-      <district_id>106</district_id>
+      <id>20404</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Jhalokathi Sadar</name_en>
-      <name_bn>ঝালকাঠি সদর</name_bn>
+      <name_en>Rowangchhari</name_en>
+      <name_bn>রোয়াংছড়ি</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10602</id>
-      <district_id>106</district_id>
+      <id>20405</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Nalchity</name_en>
-      <name_bn>নলছিটি</name_bn>
+      <name_en>Lama</name_en>
+      <name_bn>লামা</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10603</id>
-      <district_id>106</district_id>
+      <id>20406</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Rajapur</name_en>
-      <name_bn>রাজাপুর</name_bn>
+      <name_en>Alikadam</name_en>
+      <name_bn>আলীকদম</name_bn>
     </subdistrict>
     <subdistrict>
-      <id>10604</id>
-      <district_id>106</district_id>
+      <id>20407</id>
+      <district_id>204</district_id>
       <type>upazila</type>
-      <name_en>Kathalia</name_en>
-      <name_bn>কাঁঠালিয়া</name_bn>
+      <name_en>Naikhongchhari</name_en>
+      <name_bn>নাইক্ষ্যংছড়ি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20501</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Khagrachhari Sadar</name_en>
+      <name_bn>খাগড়াছড়ি সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20502</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Dighinala</name_en>
+      <name_bn>দীঘিনালা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20503</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Panchhari</name_en>
+      <name_bn>পানছড়ি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20504</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Matiranga</name_en>
+      <name_bn>মাটিরাঙ্গা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20505</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Guimara</name_en>
+      <name_bn>গুইমারা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20506</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Mahalchhari</name_en>
+      <name_bn>মহালছড়ি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20507</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Manikchhari</name_en>
+      <name_bn>মানিকছড়ি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20508</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Ramgarh</name_en>
+      <name_bn>রামগড়</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20509</id>
+      <district_id>205</district_id>
+      <type>upazila</type>
+      <name_en>Lakshmichhari</name_en>
+      <name_bn>লক্ষ্মীছড়ি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20601</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Adarsha Sadar</name_en>
+      <name_bn>আদর্শ সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20602</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Chouddagram</name_en>
+      <name_bn>চৌদ্দগ্রাম</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20603</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Laksam</name_en>
+      <name_bn>লাকসাম</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20604</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Barura</name_en>
+      <name_bn>বরুড়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20605</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Burichang</name_en>
+      <name_bn>বুড়িচং</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20606</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Brahmanpara</name_en>
+      <name_bn>ব্রাহ্মণপাড়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20607</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Chandina</name_en>
+      <name_bn>চান্দিনা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20608</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Debidwar</name_en>
+      <name_bn>দেবিদ্বার</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20609</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Muradnagar</name_en>
+      <name_bn>মুরাদনগর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20610</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Daudkandi</name_en>
+      <name_bn>দাউদকান্দি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20611</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Titas</name_en>
+      <name_bn>তিতাস</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20612</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Homna</name_en>
+      <name_bn>হোমনা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20613</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Meghna</name_en>
+      <name_bn>মেঘনা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20614</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Manoharganj</name_en>
+      <name_bn>মনোহরগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20615</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Nangalkot</name_en>
+      <name_bn>নাঙ্গলকোট</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20616</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Lalmai</name_en>
+      <name_bn>লালমাই</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20617</id>
+      <district_id>206</district_id>
+      <type>upazila</type>
+      <name_en>Sadar Dakshin</name_en>
+      <name_bn>সদর দক্ষিণ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20701</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Feni Sadar</name_en>
+      <name_bn>ফেনী সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20702</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Chhagalnaiya</name_en>
+      <name_bn>ছাগলনাইয়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20703</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Fulgazi</name_en>
+      <name_bn>ফুলগাজী</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20704</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Parshuram</name_en>
+      <name_bn>পরশুরাম</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20705</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Daganbhuiyan</name_en>
+      <name_bn>দাগনভূঞা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20706</id>
+      <district_id>207</district_id>
+      <type>upazila</type>
+      <name_en>Sonagazi</name_en>
+      <name_bn>সোনাগাজী</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20801</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Noakhali Sadar</name_en>
+      <name_bn>নোয়াখালী সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20802</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Begumganj</name_en>
+      <name_bn>বেগমগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20803</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Chatkhil</name_en>
+      <name_bn>চাটখিল</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20804</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Companiganj</name_en>
+      <name_bn>কোম্পানীগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20805</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Hatiya</name_en>
+      <name_bn>হাতিয়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20806</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Senbagh</name_en>
+      <name_bn>সেনবাগ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20807</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Sonaimuri</name_en>
+      <name_bn>সোনাইমুড়ী</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20808</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Subarnachar</name_en>
+      <name_bn>সুবর্ণচর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20809</id>
+      <district_id>208</district_id>
+      <type>upazila</type>
+      <name_en>Kabirhat</name_en>
+      <name_bn>কবিরহাট</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20901</id>
+      <district_id>209</district_id>
+      <type>upazila</type>
+      <name_en>Lakshmipur Sadar</name_en>
+      <name_bn>লক্ষ্মীপুর সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20902</id>
+      <district_id>209</district_id>
+      <type>upazila</type>
+      <name_en>Raypur</name_en>
+      <name_bn>রায়পুর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20903</id>
+      <district_id>209</district_id>
+      <type>upazila</type>
+      <name_en>Ramganj</name_en>
+      <name_bn>রামগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20904</id>
+      <district_id>209</district_id>
+      <type>upazila</type>
+      <name_en>Ramgati</name_en>
+      <name_bn>রামগতি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>20905</id>
+      <district_id>209</district_id>
+      <type>upazila</type>
+      <name_en>Kamalnagar</name_en>
+      <name_bn>কমলনগর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21001</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Chandpur Sadar</name_en>
+      <name_bn>চাঁদপুর সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21002</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Hajiganj</name_en>
+      <name_bn>হাজীগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21003</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Faridganj</name_en>
+      <name_bn>ফরিদগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21004</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Kachua</name_en>
+      <name_bn>কচুয়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21005</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Matlab Dakshin</name_en>
+      <name_bn>মতলব দক্ষিণ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21006</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Matlab Uttar</name_en>
+      <name_bn>মতলব উত্তর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21007</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Shahrasti</name_en>
+      <name_bn>শাহরাস্তি</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21008</id>
+      <district_id>210</district_id>
+      <type>upazila</type>
+      <name_en>Haimchar</name_en>
+      <name_bn>হাইমচর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21101</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Brahmanbaria Sadar</name_en>
+      <name_bn>ব্রাহ্মণবাড়িয়া সদর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21102</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Ashuganj</name_en>
+      <name_bn>আশুগঞ্জ</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21103</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Sarail</name_en>
+      <name_bn>সরাইল</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21104</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Kasba</name_en>
+      <name_bn>কসবা</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21105</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Akhaura</name_en>
+      <name_bn>আখাউড়া</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21106</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Nabinagar</name_en>
+      <name_bn>নবীনগর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21107</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Bancharampur</name_en>
+      <name_bn>বাঞ্ছারামপুর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21108</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Nasirnagar</name_en>
+      <name_bn>নাসিরনগর</name_bn>
+    </subdistrict>
+    <subdistrict>
+      <id>21109</id>
+      <district_id>211</district_id>
+      <type>upazila</type>
+      <name_en>Bijoynagar</name_en>
+      <name_bn>বিজয়নগর</name_bn>
     </subdistrict>
   </subdistricts>
 </data>

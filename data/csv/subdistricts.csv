@@ -41,3 +41,108 @@ id,district_id,type,name_en,name_bn
 10602,106,upazila,Nalchity,নলছিটি
 10603,106,upazila,Rajapur,রাজাপুর
 10604,106,upazila,Kathalia,কাঁঠালিয়া
+20101,201,thana,Chittagong City Corporation,চট্টগ্রাম সিটি কর্পোরেশন
+20102,201,upazila,Patiya,পটিয়া
+20103,201,upazila,Hathazari,হাটহাজারী
+20104,201,upazila,Anwara,আনোয়ারা
+20105,201,upazila,Boalkhali,বোয়ালখালী
+20106,201,upazila,Chandanaish,চন্দনাইশ
+20107,201,upazila,Satkania,সাতকানিয়া
+20108,201,upazila,Lohagara,লোহাগাড়া
+20109,201,upazila,Rangunia,রাঙ্গুনিয়া
+20110,201,upazila,Raozan,রাউজান
+20111,201,upazila,Sitakunda,সীতাকুণ্ড
+20112,201,upazila,Mirsharai,মীরসরাই
+20113,201,upazila,Sandwip,সন্দ্বীপ
+20114,201,upazila,Fatikchhari,ফটিকছড়ি
+20115,201,upazila,Banshkhali,বাঁশখালী
+20116,201,upazila,Karnaphuli,কর্ণফুলী
+20201,202,upazila,Cox's Bazar Sadar,কক্সবাজার সদর
+20202,202,upazila,Chakaria,চকরিয়া
+20203,202,upazila,Teknaf,টেকনাফ
+20204,202,upazila,Ukhia,উখিয়া
+20205,202,upazila,Ramu,রামু
+20206,202,upazila,Pekua,পেকুয়া
+20207,202,upazila,Maheshkhali,মহেশখালী
+20208,202,upazila,Kutubdia,কুতুবদিয়া
+20209,202,upazila,Eidgaon,ঈদগাঁও
+20301,203,upazila,Rangamati Sadar,রাঙামাটি সদর
+20302,203,upazila,Kaptai,কাপ্তাই
+20303,203,upazila,Kawkhali,কাউখালী
+20304,203,upazila,Baghaichhari,বাঘাইছড়ি
+20305,203,upazila,Barkal,বরকল
+20306,203,upazila,Jurachhari,জুরাছড়ি
+20307,203,upazila,Longadu,লংগদু
+20308,203,upazila,Naniarchar,নানিয়ারচর
+20309,203,upazila,Rajasthali,রাজস্থলী
+20310,203,upazila,Belaichhari,বেলাছড়ি
+20401,204,upazila,Bandarban Sadar,বান্দরবান সদর
+20402,204,upazila,Ruma,রুমা
+20403,204,upazila,Thanchi,থানচি
+20404,204,upazila,Rowangchhari,রোয়াংছড়ি
+20405,204,upazila,Lama,লামা
+20406,204,upazila,Alikadam,আলীকদম
+20407,204,upazila,Naikhongchhari,নাইক্ষ্যংছড়ি
+20501,205,upazila,Khagrachhari Sadar,খাগড়াছড়ি সদর
+20502,205,upazila,Dighinala,দীঘিনালা
+20503,205,upazila,Panchhari,পানছড়ি
+20504,205,upazila,Matiranga,মাটিরাঙ্গা
+20505,205,upazila,Guimara,গুইমারা
+20506,205,upazila,Mahalchhari,মহালছড়ি
+20507,205,upazila,Manikchhari,মানিকছড়ি
+20508,205,upazila,Ramgarh,রামগড়
+20509,205,upazila,Lakshmichhari,লক্ষ্মীছড়ি
+20601,206,upazila,Adarsha Sadar,আদর্শ সদর
+20602,206,upazila,Chouddagram,চৌদ্দগ্রাম
+20603,206,upazila,Laksam,লাকসাম
+20604,206,upazila,Barura,বরুড়া
+20605,206,upazila,Burichang,বুড়িচং
+20606,206,upazila,Brahmanpara,ব্রাহ্মণপাড়া
+20607,206,upazila,Chandina,চান্দিনা
+20608,206,upazila,Debidwar,দেবিদ্বার
+20609,206,upazila,Muradnagar,মুরাদনগর
+20610,206,upazila,Daudkandi,দাউদকান্দি
+20611,206,upazila,Titas,তিতাস
+20612,206,upazila,Homna,হোমনা
+20613,206,upazila,Meghna,মেঘনা
+20614,206,upazila,Manoharganj,মনোহরগঞ্জ
+20615,206,upazila,Nangalkot,নাঙ্গলকোট
+20616,206,upazila,Lalmai,লালমাই
+20617,206,upazila,Sadar Dakshin,সদর দক্ষিণ
+20701,207,upazila,Feni Sadar,ফেনী সদর
+20702,207,upazila,Chhagalnaiya,ছাগলনাইয়া
+20703,207,upazila,Fulgazi,ফুলগাজী
+20704,207,upazila,Parshuram,পরশুরাম
+20705,207,upazila,Daganbhuiyan,দাগনভূঞা
+20706,207,upazila,Sonagazi,সোনাগাজী
+20801,208,upazila,Noakhali Sadar,নোয়াখালী সদর
+20802,208,upazila,Begumganj,বেগমগঞ্জ
+20803,208,upazila,Chatkhil,চাটখিল
+20804,208,upazila,Companiganj,কোম্পানীগঞ্জ
+20805,208,upazila,Hatiya,হাতিয়া
+20806,208,upazila,Senbagh,সেনবাগ
+20807,208,upazila,Sonaimuri,সোনাইমুড়ী
+20808,208,upazila,Subarnachar,সুবর্ণচর
+20809,208,upazila,Kabirhat,কবিরহাট
+20901,209,upazila,Lakshmipur Sadar,লক্ষ্মীপুর সদর
+20902,209,upazila,Raypur,রায়পুর
+20903,209,upazila,Ramganj,রামগঞ্জ
+20904,209,upazila,Ramgati,রামগতি
+20905,209,upazila,Kamalnagar,কমলনগর
+21001,210,upazila,Chandpur Sadar,চাঁদপুর সদর
+21002,210,upazila,Hajiganj,হাজীগঞ্জ
+21003,210,upazila,Faridganj,ফরিদগঞ্জ
+21004,210,upazila,Kachua,কচুয়া
+21005,210,upazila,Matlab Dakshin,মতলব দক্ষিণ
+21006,210,upazila,Matlab Uttar,মতলব উত্তর
+21007,210,upazila,Shahrasti,শাহরাস্তি
+21008,210,upazila,Haimchar,হাইমচর
+21101,211,upazila,Brahmanbaria Sadar,ব্রাহ্মণবাড়িয়া সদর
+21102,211,upazila,Ashuganj,আশুগঞ্জ
+21103,211,upazila,Sarail,সরাইল
+21104,211,upazila,Kasba,কসবা
+21105,211,upazila,Akhaura,আখাউড়া
+21106,211,upazila,Nabinagar,নবীনগর
+21107,211,upazila,Bancharampur,বাঞ্ছারামপুর
+21108,211,upazila,Nasirnagar,নাসিরনগর
+21109,211,upazila,Bijoynagar,বিজয়নগর
