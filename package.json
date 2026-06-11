@@ -1,6 +1,6 @@
 {
   "name": "bangladesh-location-dataset",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A clean, reusable Bangladesh location dataset for ecommerce, SaaS, CRM, ERP, courier, and form builder applications",
   "main": "data/javascript/index.js",
   "type": "module",

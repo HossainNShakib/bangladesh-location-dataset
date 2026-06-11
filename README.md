@@ -144,6 +144,9 @@ const divisionOptions = divisions.map(d => ({
 bangladesh-location-dataset/
 ├── README.md                        # This file
 ├── LICENSE                          # MIT License
+├── CHANGELOG.md                     # Version history
+├── CONTRIBUTING.md                  # Contribution guidelines
+├── DATA_POLICY.md                   # Data policy and standards
 ├── package.json                     # NPM package info
 ├── data/
 │   ├── json/                        # Source of truth (recommended for imports)
@@ -165,21 +168,15 @@ bangladesh-location-dataset/
 │   │   ├── rajshahi/
 │   │   ├── rangpur/
 │   │   └── sylhet/
-│   ├── csv/
-│   │   ├── divisions.csv           # CSV format
-│   │   ├── districts.csv
-│   │   ├── subdistricts.csv
-│   │   └── localareas.csv
-│   ├── sql/
-│   │   ├── schema.sql              # Table definitions
-│   │   ├── seed.sql                # Data inserts
-│   │   └── mysql.sql               # MySQL variant
-│   └── javascript/
-│       ├── divisions.js
-│       ├── districts.js
-│       ├── subdistricts.js
-│       ├── localareas.js
-│       └── index.js                # Main export
+│   ├── csv/                        # CSV exports
+│   ├── sql/                        # PostgreSQL/MySQL schemas and seeds
+│   ├── sqlite/                     # SQLite database
+│   ├── postgresql/                 # PostgreSQL-specific
+│   ├── javascript/                 # CommonJS/ES Module exports
+│   ├── typescript/                 # TypeScript exports with types
+│   ├── yaml/                       # YAML format
+│   ├── xml/                        # XML format
+│   └── xlsx/                       # Excel format
 ├── src/
 │   ├── validators/
 │   │   └── validate-data.js        # Data integrity checks
@@ -188,14 +185,21 @@ bangladesh-location-dataset/
 │   │   ├── build-division-files.js # Build division-wise files
 │   │   ├── json-to-csv.js          # JSON → CSV
 │   │   ├── json-to-sql.js          # JSON → SQL
-│   │   └── ...
+│   │   ├── json-to-typescript.js   # JSON → TypeScript
+│   │   ├── json-to-yaml.js         # JSON → YAML
+│   │   ├── json-to-xml.js          # JSON → XML
+│   │   ├── json-to-xlsx.js         # JSON → Excel
+│   │   ├── json-to-sqlite.js       # JSON → SQLite
+│   │   └── json-to-postgresql.js   # JSON → PostgreSQL
 │   └── utils/
 │       └── id-helper.js            # ID utilities
 └── docs/
     ├── structure.md                # Data structure docs
-    ├── id-format.md               # ID format guide
-    ├── usage.md                   # Detailed usage guide
-    └── examples.md                # Code examples
+    ├── coverage.md                 # Dataset coverage status
+    ├── id-format.md                # ID format guide
+    ├── usage.md                    # Detailed usage guide
+    ├── rules.md                    # Data entry rules
+    └── examples.md                 # Code examples
 ```
 
 ### Data Storage Strategy
@@ -248,18 +252,18 @@ This generates:
 
 ## Contributing
 
-Contributions welcome! Please ensure:
-- IDs follow the hierarchical pattern
-- Both Bengali (`name_bn`) and English (`name_en`) names are provided
-- Valid type values are used
-- Data passes validation
-- Changes are in a feature branch with clear commit messages
+Contributions welcome! Please see:
+- [CONTRIBUTING.md](CONTRIBUTING.md) - Contribution guidelines
+- [DATA_POLICY.md](DATA_POLICY.md) - Data policy and standards
+- [CHANGELOG.md](CHANGELOG.md) - Version history
 
 ## License
 
 MIT - See LICENSE file for details
 
 ## Coverage Status
+
+For detailed coverage information, see [docs/coverage.md](docs/coverage.md).
 
 ### Completed Divisions
 
