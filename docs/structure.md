@@ -24,6 +24,21 @@ bangladesh-location-dataset/
 3. **Subdistricts** - Belong to districts (~500 upazilas/thanas)
 4. **Local Areas** - Belong to subdistricts (~5000 unions/wards)
 
+## Coverage Status
+
+| Division | Districts | Subdistricts | LocalAreas | Status |
+|----------|-----------|--------------|-------------|--------|
+| Barishal (1) | 6 | 42 | 345 | ✅ Complete |
+| Chattogram (2) | - | - | - | In Progress |
+| Dhaka (3) | - | - | - | In Progress |
+| Khulna (4) | - | - | - | In Progress |
+| Mymensingh (5) | - | - | - | In Progress |
+| Rajshahi (6) | - | - | - | In Progress |
+| Rangpur (7) | - | - | - | In Progress |
+| Sylhet (8) | - | - | - | In Progress |
+
+**Total**: 6 districts, 42 subdistricts, 345 localareas (Barishal Division only)
+
 ## Data Storage Strategy
 
 ### Flat Files (Recommended for Direct Imports)

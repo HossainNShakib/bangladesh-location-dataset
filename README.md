@@ -259,12 +259,30 @@ Contributions welcome! Please ensure:
 
 MIT - See LICENSE file for details
 
-## Notes
+## Coverage Status
 
-- Current version includes Barishal Division (Division 1) with sample data
-- Full Bangladesh dataset with all 8 divisions coming soon
-- Data is normalized and follows modern administrative boundaries
-- Suitable for production use in applications
+### Completed Divisions
+
+| Division | Districts | Subdistricts | LocalAreas |
+|----------|----------|--------------|------------|
+| **Barishal** (1) | 6 | 42 | 345 |
+| Chattogram (2) | - | - | - |
+| Dhaka (3) | - | - | - |
+| Khulna (4) | - | - | - |
+| Mymensingh (5) | - | - | - |
+| Rajshahi (6) | - | - | - |
+| Rangpur (7) | - | - | - |
+| Sylhet (8) | - | - | - |
+
+### Barishal Division Details
+
+- **6 Districts**: Barishal, Patuakhali, Bhola, Pirojpur, Barguna, Jhalokathi
+- **42 Subdistricts**: All type `upazila`
+- **345 LocalAreas**: All type `union`
+
+### In Progress
+
+Remaining 7 divisions (Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet) contain structure only. Full data coming soon.
 
 ## Support
 
@@ -275,6 +293,6 @@ For issues, questions, or contributions:
 
 ---
 
-**Last Updated**: 2026-06-10
-**Status**: Sample data (Barishal Division)
+**Last Updated**: 2026-06-11
+**Status**: Barishal Division complete (345 localareas)
 **Format Version**: 1.0
