@@ -2085,6 +2085,867 @@
       "type": "union",
       "name_en": "Chaufaldandi",
       "name_bn": "চৌফলদণ্ডী"
+    },
+    {
+      "id": 2030101,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Kaptaimukh",
+      "name_bn": "কাপ্তাইমুখ"
+    },
+    {
+      "id": 2030102,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Jibatoli",
+      "name_bn": "জীবতলী"
+    },
+    {
+      "id": 2030103,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Magban",
+      "name_bn": "মগবান"
+    },
+    {
+      "id": 2030104,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Balukhali",
+      "name_bn": "বালুখালী"
+    },
+    {
+      "id": 2030105,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Kudukchhari",
+      "name_bn": "কুদুকছড়ি"
+    },
+    {
+      "id": 2030106,
+      "subdistrict_id": 20301,
+      "type": "union",
+      "name_en": "Bandukbhanga",
+      "name_bn": "বন্দুকভাঙা"
+    },
+    {
+      "id": 2030201,
+      "subdistrict_id": 20302,
+      "type": "union",
+      "name_en": "Chandraghona",
+      "name_bn": "চন্দ্রঘোনা"
+    },
+    {
+      "id": 2030202,
+      "subdistrict_id": 20302,
+      "type": "union",
+      "name_en": "Kaptai Sadar",
+      "name_bn": "কাপ্তাই সদর"
+    },
+    {
+      "id": 2030203,
+      "subdistrict_id": 20302,
+      "type": "union",
+      "name_en": "Wagga",
+      "name_bn": "ওয়াজ্ঞা"
+    },
+    {
+      "id": 2030204,
+      "subdistrict_id": 20302,
+      "type": "union",
+      "name_en": "Chitmaram",
+      "name_bn": "চিৎমরম"
+    },
+    {
+      "id": 2030205,
+      "subdistrict_id": 20302,
+      "type": "union",
+      "name_en": "Raikhali",
+      "name_bn": "রাইখালী"
+    },
+    {
+      "id": 2030301,
+      "subdistrict_id": 20303,
+      "type": "union",
+      "name_en": "Betbunia",
+      "name_bn": "বেতবুনিয়া"
+    },
+    {
+      "id": 2030302,
+      "subdistrict_id": 20303,
+      "type": "union",
+      "name_en": "Fatikchhari",
+      "name_bn": "ফটিকছড়ি"
+    },
+    {
+      "id": 2030303,
+      "subdistrict_id": 20303,
+      "type": "union",
+      "name_en": "Ghagra",
+      "name_bn": "ঘাগড়া"
+    },
+    {
+      "id": 2030304,
+      "subdistrict_id": 20303,
+      "type": "union",
+      "name_en": "Kalampati",
+      "name_bn": "কলমপতি"
+    },
+    {
+      "id": 2030401,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Saroatali",
+      "name_bn": "সারোয়াতলী"
+    },
+    {
+      "id": 2030402,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Khedarmara",
+      "name_bn": "খেদরমারা"
+    },
+    {
+      "id": 2030403,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Rupkari",
+      "name_bn": "রূপকারী"
+    },
+    {
+      "id": 2030404,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Marishya",
+      "name_bn": "মারিশ্যা"
+    },
+    {
+      "id": 2030405,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Baghaichhari",
+      "name_bn": "বাঘাইছড়ি"
+    },
+    {
+      "id": 2030406,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Sajek",
+      "name_bn": "সাজেক"
+    },
+    {
+      "id": 2030407,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Amtali",
+      "name_bn": "আমতলী"
+    },
+    {
+      "id": 2030408,
+      "subdistrict_id": 20304,
+      "type": "union",
+      "name_en": "Bangaltali",
+      "name_bn": "বঙ্গলতলী"
+    },
+    {
+      "id": 2030501,
+      "subdistrict_id": 20305,
+      "type": "union",
+      "name_en": "Subalong",
+      "name_bn": "সুবলং"
+    },
+    {
+      "id": 2030502,
+      "subdistrict_id": 20305,
+      "type": "union",
+      "name_en": "Barkal Sadar",
+      "name_bn": "বরকল সদর"
+    },
+    {
+      "id": 2030503,
+      "subdistrict_id": 20305,
+      "type": "union",
+      "name_en": "Aimachhari",
+      "name_bn": "আইমাছড়ি"
+    },
+    {
+      "id": 2030504,
+      "subdistrict_id": 20305,
+      "type": "union",
+      "name_en": "Bhushanchhari",
+      "name_bn": "ভূষণছড়া"
+    },
+    {
+      "id": 2030505,
+      "subdistrict_id": 20305,
+      "type": "union",
+      "name_en": "Bara Harina",
+      "name_bn": "বড় হরিণা"
+    },
+    {
+      "id": 2030601,
+      "subdistrict_id": 20306,
+      "type": "union",
+      "name_en": "Jurachhari",
+      "name_bn": "জুরাছড়ি"
+    },
+    {
+      "id": 2030602,
+      "subdistrict_id": 20306,
+      "type": "union",
+      "name_en": "Banyogichhari",
+      "name_bn": "বনযোগীছড়ি"
+    },
+    {
+      "id": 2030603,
+      "subdistrict_id": 20306,
+      "type": "union",
+      "name_en": "Maidang",
+      "name_bn": "মৈদং"
+    },
+    {
+      "id": 2030604,
+      "subdistrict_id": 20306,
+      "type": "union",
+      "name_en": "Dumdumya",
+      "name_bn": "দুমদুম্যা"
+    },
+    {
+      "id": 2030701,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Atarakchhari",
+      "name_bn": "আটারকছড়া"
+    },
+    {
+      "id": 2030702,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Kalapakujya",
+      "name_bn": "কালাপাকুজ্যা"
+    },
+    {
+      "id": 2030703,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Gulshakhali",
+      "name_bn": "গুলশাখালী"
+    },
+    {
+      "id": 2030704,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Bogachattar",
+      "name_bn": "বগাচত্বর"
+    },
+    {
+      "id": 2030705,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Longadu Sadar",
+      "name_bn": "লংগদু সদর"
+    },
+    {
+      "id": 2030706,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Mainimukh",
+      "name_bn": "মাইনীমুখ"
+    },
+    {
+      "id": 2030707,
+      "subdistrict_id": 20307,
+      "type": "union",
+      "name_en": "Bhasanyadam",
+      "name_bn": "ভাসন্যাদম"
+    },
+    {
+      "id": 2030801,
+      "subdistrict_id": 20308,
+      "type": "union",
+      "name_en": "Sabekkhyong",
+      "name_bn": "সাবেক্ষ্যং"
+    },
+    {
+      "id": 2030802,
+      "subdistrict_id": 20308,
+      "type": "union",
+      "name_en": "Naniarchar Sadar",
+      "name_bn": "নানিয়ারচর সদর"
+    },
+    {
+      "id": 2030803,
+      "subdistrict_id": 20308,
+      "type": "union",
+      "name_en": "Burighat",
+      "name_bn": "বুড়িঘাট"
+    },
+    {
+      "id": 2030804,
+      "subdistrict_id": 20308,
+      "type": "union",
+      "name_en": "Ghilachhari",
+      "name_bn": "ঘিলাছড়ি"
+    },
+    {
+      "id": 2030901,
+      "subdistrict_id": 20309,
+      "type": "union",
+      "name_en": "Ghilachhari",
+      "name_bn": "ঘিলাছড়ি"
+    },
+    {
+      "id": 2030902,
+      "subdistrict_id": 20309,
+      "type": "union",
+      "name_en": "Gaindya",
+      "name_bn": "গাইন্দ্যা"
+    },
+    {
+      "id": 2030903,
+      "subdistrict_id": 20309,
+      "type": "union",
+      "name_en": "Bangalhalia",
+      "name_bn": "বাঙালিহালিয়া"
+    },
+    {
+      "id": 2031001,
+      "subdistrict_id": 20310,
+      "type": "union",
+      "name_en": "Belaichhari Sadar",
+      "name_bn": "বেলাছড়ি সদর"
+    },
+    {
+      "id": 2031002,
+      "subdistrict_id": 20310,
+      "type": "union",
+      "name_en": "Kengrachhari",
+      "name_bn": "কেংড়াছড়ি"
+    },
+    {
+      "id": 2031003,
+      "subdistrict_id": 20310,
+      "type": "union",
+      "name_en": "Farua",
+      "name_bn": "ফারুয়া"
+    },
+    {
+      "id": 2031004,
+      "subdistrict_id": 20310,
+      "type": "union",
+      "name_en": "Barathali",
+      "name_bn": "বড়থলি"
+    },
+    {
+      "id": 2040101,
+      "subdistrict_id": 20401,
+      "type": "union",
+      "name_en": "Rajbila",
+      "name_bn": "রাজবিলা"
+    },
+    {
+      "id": 2040102,
+      "subdistrict_id": 20401,
+      "type": "union",
+      "name_en": "Kuhalong",
+      "name_bn": "কুহালং"
+    },
+    {
+      "id": 2040103,
+      "subdistrict_id": 20401,
+      "type": "union",
+      "name_en": "Tonkabati",
+      "name_bn": "টংকাবতী"
+    },
+    {
+      "id": 2040104,
+      "subdistrict_id": 20401,
+      "type": "union",
+      "name_en": "Sualok",
+      "name_bn": "সুয়ালক"
+    },
+    {
+      "id": 2040105,
+      "subdistrict_id": 20401,
+      "type": "union",
+      "name_en": "Bandarban Sadar",
+      "name_bn": "বান্দরবান সদর"
+    },
+    {
+      "id": 2040201,
+      "subdistrict_id": 20402,
+      "type": "union",
+      "name_en": "Ruma Sadar",
+      "name_bn": "রুমা সদর"
+    },
+    {
+      "id": 2040202,
+      "subdistrict_id": 20402,
+      "type": "union",
+      "name_en": "Galangya",
+      "name_bn": "গালঙ্গ্যা"
+    },
+    {
+      "id": 2040203,
+      "subdistrict_id": 20402,
+      "type": "union",
+      "name_en": "Paindu",
+      "name_bn": "পাইন্দু"
+    },
+    {
+      "id": 2040204,
+      "subdistrict_id": 20402,
+      "type": "union",
+      "name_en": "Remakri Prangsa",
+      "name_bn": "রেমেক্রী প্রাংসা"
+    },
+    {
+      "id": 2040301,
+      "subdistrict_id": 20403,
+      "type": "union",
+      "name_en": "Thanchi Sadar",
+      "name_bn": "থানচি সদর"
+    },
+    {
+      "id": 2040302,
+      "subdistrict_id": 20403,
+      "type": "union",
+      "name_en": "Tindu",
+      "name_bn": "তিন্দু"
+    },
+    {
+      "id": 2040303,
+      "subdistrict_id": 20403,
+      "type": "union",
+      "name_en": "Remakri",
+      "name_bn": "রেমেক্রী"
+    },
+    {
+      "id": 2040304,
+      "subdistrict_id": 20403,
+      "type": "union",
+      "name_en": "Bolipara",
+      "name_bn": "বলিপাড়া"
+    },
+    {
+      "id": 2040401,
+      "subdistrict_id": 20404,
+      "type": "union",
+      "name_en": "Rowangchhari Sadar",
+      "name_bn": "রোয়াংছড়ি সদর"
+    },
+    {
+      "id": 2040402,
+      "subdistrict_id": 20404,
+      "type": "union",
+      "name_en": "Taracha",
+      "name_bn": "তারাছা"
+    },
+    {
+      "id": 2040403,
+      "subdistrict_id": 20404,
+      "type": "union",
+      "name_en": "Alikhyong",
+      "name_bn": "আলেক্ষ্যং"
+    },
+    {
+      "id": 2040404,
+      "subdistrict_id": 20404,
+      "type": "union",
+      "name_en": "Noapatong",
+      "name_bn": "নোয়াপতং"
+    },
+    {
+      "id": 2040501,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Gazalia",
+      "name_bn": "গজালিয়া"
+    },
+    {
+      "id": 2040502,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Lama Sadar",
+      "name_bn": "লামা সদর"
+    },
+    {
+      "id": 2040503,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Aziznagar",
+      "name_bn": "আজিজনগর"
+    },
+    {
+      "id": 2040504,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Phaitong",
+      "name_bn": "ফাইতং"
+    },
+    {
+      "id": 2040505,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Fasiakhali",
+      "name_bn": "ফাঁসিয়াখালী"
+    },
+    {
+      "id": 2040506,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Ruposhipara",
+      "name_bn": "রুপসীপাড়া"
+    },
+    {
+      "id": 2040507,
+      "subdistrict_id": 20405,
+      "type": "union",
+      "name_en": "Sarai",
+      "name_bn": "সরই"
+    },
+    {
+      "id": 2040601,
+      "subdistrict_id": 20406,
+      "type": "union",
+      "name_en": "Alikadam Sadar",
+      "name_bn": "আলীকদম সদর"
+    },
+    {
+      "id": 2040602,
+      "subdistrict_id": 20406,
+      "type": "union",
+      "name_en": "Chaikhyong",
+      "name_bn": "চৈক্ষ্যং"
+    },
+    {
+      "id": 2040603,
+      "subdistrict_id": 20406,
+      "type": "union",
+      "name_en": "Nayapara",
+      "name_bn": "নয়াপাড়া"
+    },
+    {
+      "id": 2040604,
+      "subdistrict_id": 20406,
+      "type": "union",
+      "name_en": "Kurukpata",
+      "name_bn": "কুরুকপাতা"
+    },
+    {
+      "id": 2040701,
+      "subdistrict_id": 20407,
+      "type": "union",
+      "name_en": "Naikhongchhari Sadar",
+      "name_bn": "নাইক্ষ্যংছড়ি সদর"
+    },
+    {
+      "id": 2040702,
+      "subdistrict_id": 20407,
+      "type": "union",
+      "name_en": "Ghumdhum",
+      "name_bn": "ঘুমধুম"
+    },
+    {
+      "id": 2040703,
+      "subdistrict_id": 20407,
+      "type": "union",
+      "name_en": "Sonaichhari",
+      "name_bn": "সোনাইছড়ি"
+    },
+    {
+      "id": 2040704,
+      "subdistrict_id": 20407,
+      "type": "union",
+      "name_en": "Baishari",
+      "name_bn": "বাইশারী"
+    },
+    {
+      "id": 2040705,
+      "subdistrict_id": 20407,
+      "type": "union",
+      "name_en": "Dochhari",
+      "name_bn": "দোছড়ি"
+    },
+    {
+      "id": 2050101,
+      "subdistrict_id": 20501,
+      "type": "union",
+      "name_en": "Khagrachhari Sadar",
+      "name_bn": "খাগড়াছড়ি সদর"
+    },
+    {
+      "id": 2050102,
+      "subdistrict_id": 20501,
+      "type": "union",
+      "name_en": "Ganjapara",
+      "name_bn": "গঞ্জপাড়া"
+    },
+    {
+      "id": 2050103,
+      "subdistrict_id": 20501,
+      "type": "union",
+      "name_en": "Kamalchhari",
+      "name_bn": "কমলছড়ি"
+    },
+    {
+      "id": 2050104,
+      "subdistrict_id": 20501,
+      "type": "union",
+      "name_en": "Perachhari",
+      "name_bn": "পেরাছড়ি"
+    },
+    {
+      "id": 2050105,
+      "subdistrict_id": 20501,
+      "type": "union",
+      "name_en": "Bhaibonchhari",
+      "name_bn": "ভাইবোনছড়া"
+    },
+    {
+      "id": 2050201,
+      "subdistrict_id": 20502,
+      "type": "union",
+      "name_en": "Merung",
+      "name_bn": "মেরুং"
+    },
+    {
+      "id": 2050202,
+      "subdistrict_id": 20502,
+      "type": "union",
+      "name_en": "Boalkhali",
+      "name_bn": "বোয়ালখালী"
+    },
+    {
+      "id": 2050203,
+      "subdistrict_id": 20502,
+      "type": "union",
+      "name_en": "Kabakhali",
+      "name_bn": "কবাখালী"
+    },
+    {
+      "id": 2050204,
+      "subdistrict_id": 20502,
+      "type": "union",
+      "name_en": "Dighinala Sadar",
+      "name_bn": "দীঘিনালা সদর"
+    },
+    {
+      "id": 2050205,
+      "subdistrict_id": 20502,
+      "type": "union",
+      "name_en": "Babuchhari",
+      "name_bn": "বাবুছড়া"
+    },
+    {
+      "id": 2050301,
+      "subdistrict_id": 20503,
+      "type": "union",
+      "name_en": "Logang",
+      "name_bn": "লোগাং"
+    },
+    {
+      "id": 2050302,
+      "subdistrict_id": 20503,
+      "type": "union",
+      "name_en": "Chengi",
+      "name_bn": "চেঙ্গী"
+    },
+    {
+      "id": 2050303,
+      "subdistrict_id": 20503,
+      "type": "union",
+      "name_en": "Panchhari Sadar",
+      "name_bn": "পানছড়ি সদর"
+    },
+    {
+      "id": 2050304,
+      "subdistrict_id": 20503,
+      "type": "union",
+      "name_en": "Latiban",
+      "name_bn": "লতিবান"
+    },
+    {
+      "id": 2050305,
+      "subdistrict_id": 20503,
+      "type": "union",
+      "name_en": "Ultachhari",
+      "name_bn": "উল্টাছড়ি"
+    },
+    {
+      "id": 2050401,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Taindong",
+      "name_bn": "তাইন্দং"
+    },
+    {
+      "id": 2050402,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Tabalchhari",
+      "name_bn": "তবলছড়ি"
+    },
+    {
+      "id": 2050403,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Barnal",
+      "name_bn": "বড়নাল"
+    },
+    {
+      "id": 2050404,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Amtali",
+      "name_bn": "আমতলী"
+    },
+    {
+      "id": 2050405,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Matiranga Sadar",
+      "name_bn": "মাটিরাঙ্গা সদর"
+    },
+    {
+      "id": 2050406,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Belchhari",
+      "name_bn": "বেলছড়ি"
+    },
+    {
+      "id": 2050407,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Guimara",
+      "name_bn": "গুইমারা"
+    },
+    {
+      "id": 2050408,
+      "subdistrict_id": 20504,
+      "type": "union",
+      "name_en": "Gomti",
+      "name_bn": "গোমতী"
+    },
+    {
+      "id": 2050501,
+      "subdistrict_id": 20505,
+      "type": "union",
+      "name_en": "Guimara Sadar",
+      "name_bn": "গুইমারা সদর"
+    },
+    {
+      "id": 2050502,
+      "subdistrict_id": 20505,
+      "type": "union",
+      "name_en": "Hafchhari",
+      "name_bn": "হাফছড়ি"
+    },
+    {
+      "id": 2050503,
+      "subdistrict_id": 20505,
+      "type": "union",
+      "name_en": "Sindukchhari",
+      "name_bn": "সিন্দুকছড়ি"
+    },
+    {
+      "id": 2050601,
+      "subdistrict_id": 20506,
+      "type": "union",
+      "name_en": "Mahalchhari Sadar",
+      "name_bn": "মহালছড়ি সদর"
+    },
+    {
+      "id": 2050602,
+      "subdistrict_id": 20506,
+      "type": "union",
+      "name_en": "Mubachhari",
+      "name_bn": "মুবাছড়ি"
+    },
+    {
+      "id": 2050603,
+      "subdistrict_id": 20506,
+      "type": "union",
+      "name_en": "Kayanghat",
+      "name_bn": "ক্যায়াংঘাট"
+    },
+    {
+      "id": 2050604,
+      "subdistrict_id": 20506,
+      "type": "union",
+      "name_en": "Maischhari",
+      "name_bn": "মাইসছড়ি"
+    },
+    {
+      "id": 2050701,
+      "subdistrict_id": 20507,
+      "type": "union",
+      "name_en": "Manikchhari Sadar",
+      "name_bn": "মানিকছড়ি সদর"
+    },
+    {
+      "id": 2050702,
+      "subdistrict_id": 20507,
+      "type": "union",
+      "name_en": "Batnatali",
+      "name_bn": "বাটনাতলী"
+    },
+    {
+      "id": 2050703,
+      "subdistrict_id": 20507,
+      "type": "union",
+      "name_en": "Yogya Chhola",
+      "name_bn": "যোগ্যছোলা"
+    },
+    {
+      "id": 2050704,
+      "subdistrict_id": 20507,
+      "type": "union",
+      "name_en": "Tintahari",
+      "name_bn": "তিনটহরী"
+    },
+    {
+      "id": 2050801,
+      "subdistrict_id": 20508,
+      "type": "union",
+      "name_en": "Ramgarh Sadar",
+      "name_bn": "রামগড় সদর"
+    },
+    {
+      "id": 2050802,
+      "subdistrict_id": 20508,
+      "type": "union",
+      "name_en": "Patachhari",
+      "name_bn": "পাতাছড়া"
+    },
+    {
+      "id": 2050803,
+      "subdistrict_id": 20508,
+      "type": "union",
+      "name_en": "Hafchhari",
+      "name_bn": "হাফছড়ি"
+    },
+    {
+      "id": 2050901,
+      "subdistrict_id": 20509,
+      "type": "union",
+      "name_en": "Lakshmichhari Sadar",
+      "name_bn": "লক্ষ্মীছড়ি সদর"
+    },
+    {
+      "id": 2050902,
+      "subdistrict_id": 20509,
+      "type": "union",
+      "name_en": "Dulyatali",
+      "name_bn": "দুল্যাতলী"
+    },
+    {
+      "id": 2050903,
+      "subdistrict_id": 20509,
+      "type": "union",
+      "name_en": "Barmachhari",
+      "name_bn": "বর্মাছড়ি"
     }
   ]
 }
