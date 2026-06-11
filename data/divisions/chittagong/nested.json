@@ -2391,6 +2391,510 @@
       "type": "union",
       "name_en": "Bara Uthan",
       "name_bn": "বড় উঠান"
+    },
+    {
+      "id": 2020101,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "Islampur",
+      "name_bn": "ইসলামপুর"
+    },
+    {
+      "id": 2020102,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "Chaufaldandi",
+      "name_bn": "চৌফলদণ্ডী"
+    },
+    {
+      "id": 2020103,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "Bharuakhali",
+      "name_bn": "ভারুয়াখালী"
+    },
+    {
+      "id": 2020104,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "PM Khali",
+      "name_bn": "পিএমখালী"
+    },
+    {
+      "id": 2020105,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "Khurushkul",
+      "name_bn": "খুরুশকুল"
+    },
+    {
+      "id": 2020106,
+      "subdistrict_id": 20201,
+      "type": "union",
+      "name_en": "Jhilongja",
+      "name_bn": "ঝিলংজা"
+    },
+    {
+      "id": 2020201,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Harbang",
+      "name_bn": "হারবাং"
+    },
+    {
+      "id": 2020202,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Braitoli",
+      "name_bn": "বরইতলী"
+    },
+    {
+      "id": 2020203,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Kaiyarbil",
+      "name_bn": "কৈয়ারবিল"
+    },
+    {
+      "id": 2020204,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Bamu Bilchhari",
+      "name_bn": "বমু বিলছড়ি"
+    },
+    {
+      "id": 2020205,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Surajpur-Manikpur",
+      "name_bn": "সুরাজপুর-মানিকপুর"
+    },
+    {
+      "id": 2020206,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Purva Bada Veola",
+      "name_bn": "পূর্ব বড় ভেওলা"
+    },
+    {
+      "id": 2020207,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Kakara",
+      "name_bn": "কাকারা"
+    },
+    {
+      "id": 2020208,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Lakhyarchar",
+      "name_bn": "লক্ষ্যারচর"
+    },
+    {
+      "id": 2020209,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Chiringa",
+      "name_bn": "চিরিঙ্গা"
+    },
+    {
+      "id": 2020210,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Saharbil",
+      "name_bn": "সাহারবিল"
+    },
+    {
+      "id": 2020211,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Veola Manik Char",
+      "name_bn": "ভেওলা মানিক চর"
+    },
+    {
+      "id": 2020212,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Dulahazara",
+      "name_bn": "ডুলাহাজারা"
+    },
+    {
+      "id": 2020213,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Khutakhali",
+      "name_bn": "খুটাখালী"
+    },
+    {
+      "id": 2020214,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Demusia",
+      "name_bn": "ডেমুশিয়া"
+    },
+    {
+      "id": 2020215,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Konakhali",
+      "name_bn": "কোনাখালী"
+    },
+    {
+      "id": 2020216,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Chilkhali",
+      "name_bn": "চিলখালী"
+    },
+    {
+      "id": 2020217,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Badarkhali",
+      "name_bn": "বদরখালী"
+    },
+    {
+      "id": 2020218,
+      "subdistrict_id": 20202,
+      "type": "union",
+      "name_en": "Dhemushia",
+      "name_bn": "ঢেমুশিয়া"
+    },
+    {
+      "id": 2020301,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "Whykong",
+      "name_bn": "হোয়াইকং"
+    },
+    {
+      "id": 2020302,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "Hnhila",
+      "name_bn": "হ্নীলা"
+    },
+    {
+      "id": 2020303,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "Teknaf Sadar",
+      "name_bn": "টেকনাফ সদর"
+    },
+    {
+      "id": 2020304,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "Sabrang",
+      "name_bn": "সাবরাং"
+    },
+    {
+      "id": 2020305,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "Baharchhara",
+      "name_bn": "বাহারছড়া"
+    },
+    {
+      "id": 2020306,
+      "subdistrict_id": 20203,
+      "type": "union",
+      "name_en": "St. Martin",
+      "name_bn": "সেন্ট মার্টিন"
+    },
+    {
+      "id": 2020401,
+      "subdistrict_id": 20204,
+      "type": "union",
+      "name_en": "Rajapalong",
+      "name_bn": "রাজাপালং"
+    },
+    {
+      "id": 2020402,
+      "subdistrict_id": 20204,
+      "type": "union",
+      "name_en": "Jaliapalong",
+      "name_bn": "জালিয়াপালং"
+    },
+    {
+      "id": 2020403,
+      "subdistrict_id": 20204,
+      "type": "union",
+      "name_en": "Haldiapalong",
+      "name_bn": "হলদিয়াপালং"
+    },
+    {
+      "id": 2020404,
+      "subdistrict_id": 20204,
+      "type": "union",
+      "name_en": "Ratnapalong",
+      "name_bn": "রত্নাপালং"
+    },
+    {
+      "id": 2020405,
+      "subdistrict_id": 20204,
+      "type": "union",
+      "name_en": "Palongkhali",
+      "name_bn": "পালংখালী"
+    },
+    {
+      "id": 2020501,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Eidgarh",
+      "name_bn": "ঈদগড়"
+    },
+    {
+      "id": 2020502,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Garjonia",
+      "name_bn": "গর্জুনিয়া"
+    },
+    {
+      "id": 2020503,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Kachhapia",
+      "name_bn": "কচ্ছপিয়া"
+    },
+    {
+      "id": 2020504,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Kauarkhop",
+      "name_bn": "কাউয়ারখোপ"
+    },
+    {
+      "id": 2020505,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Fatekharkul",
+      "name_bn": "ফতেখাঁরকূল"
+    },
+    {
+      "id": 2020506,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Joarianala",
+      "name_bn": "জোয়ারিয়া নালা"
+    },
+    {
+      "id": 2020507,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Ramu Sadar",
+      "name_bn": "রামু সদর"
+    },
+    {
+      "id": 2020508,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Dakshin Mithachhari",
+      "name_bn": "দক্ষিণ মিঠাছড়ি"
+    },
+    {
+      "id": 2020509,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Khuniapalong",
+      "name_bn": "খুনিয়াপালং"
+    },
+    {
+      "id": 2020510,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Chakmarkul",
+      "name_bn": "চাকমারকূল"
+    },
+    {
+      "id": 2020511,
+      "subdistrict_id": 20205,
+      "type": "union",
+      "name_en": "Rashidnagar",
+      "name_bn": "রশিদনগর"
+    },
+    {
+      "id": 2020601,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Pekua Sadar",
+      "name_bn": "পেকুয়া সদর"
+    },
+    {
+      "id": 2020602,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Mognama",
+      "name_bn": "মগনামা"
+    },
+    {
+      "id": 2020603,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Ujantia",
+      "name_bn": "উজানটিয়া"
+    },
+    {
+      "id": 2020604,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Shilkhali",
+      "name_bn": "শিলখালী"
+    },
+    {
+      "id": 2020605,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Barabakia",
+      "name_bn": "বারবাকিয়া"
+    },
+    {
+      "id": 2020606,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Taitong",
+      "name_bn": "টৈটং"
+    },
+    {
+      "id": 2020607,
+      "subdistrict_id": 20206,
+      "type": "union",
+      "name_en": "Rajakhali",
+      "name_bn": "রাজাখালী"
+    },
+    {
+      "id": 2020701,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Matarbari",
+      "name_bn": "মাতারবাড়ী"
+    },
+    {
+      "id": 2020702,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Dhalghata",
+      "name_bn": "ধলঘাটা"
+    },
+    {
+      "id": 2020703,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Kalarmarchhara",
+      "name_bn": "কালারমারছড়া"
+    },
+    {
+      "id": 2020704,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Shaplapur",
+      "name_bn": "শাপলাপুর"
+    },
+    {
+      "id": 2020705,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Hoanak",
+      "name_bn": "হোয়ানক"
+    },
+    {
+      "id": 2020706,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Bara Maheshkhali",
+      "name_bn": "বড় মহেশখালী"
+    },
+    {
+      "id": 2020707,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Kutubjom",
+      "name_bn": "কুতুবজোম"
+    },
+    {
+      "id": 2020708,
+      "subdistrict_id": 20207,
+      "type": "union",
+      "name_en": "Chhota Maheshkhali",
+      "name_bn": "ছোট মহেশখালী"
+    },
+    {
+      "id": 2020801,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Uttar Dhurung",
+      "name_bn": "উত্তর ধুরুং"
+    },
+    {
+      "id": 2020802,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Dakshin Dhurung",
+      "name_bn": "দক্ষিণ ধুরুং"
+    },
+    {
+      "id": 2020803,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Lemshikhali",
+      "name_bn": "লেমশীখালী"
+    },
+    {
+      "id": 2020804,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Kaiyarbil",
+      "name_bn": "কৈয়ারবিল"
+    },
+    {
+      "id": 2020805,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Baraghop",
+      "name_bn": "বড়ঘোপ"
+    },
+    {
+      "id": 2020806,
+      "subdistrict_id": 20208,
+      "type": "union",
+      "name_en": "Ali Akbar Deil",
+      "name_bn": "আলী আকবর ডেইল"
+    },
+    {
+      "id": 2020901,
+      "subdistrict_id": 20209,
+      "type": "union",
+      "name_en": "Eidgaon",
+      "name_bn": "ঈদগাঁও"
+    },
+    {
+      "id": 2020902,
+      "subdistrict_id": 20209,
+      "type": "union",
+      "name_en": "Jalalabad",
+      "name_bn": "জালালাবাদ"
+    },
+    {
+      "id": 2020903,
+      "subdistrict_id": 20209,
+      "type": "union",
+      "name_en": "Islamabad",
+      "name_bn": "ইসলামাবাদ"
+    },
+    {
+      "id": 2020904,
+      "subdistrict_id": 20209,
+      "type": "union",
+      "name_en": "Pokkhali",
+      "name_bn": "পোকখালী"
+    },
+    {
+      "id": 2020905,
+      "subdistrict_id": 20209,
+      "type": "union",
+      "name_en": "Chaufaldandi",
+      "name_bn": "চৌফলদণ্ডী"
     }
   ]
 }

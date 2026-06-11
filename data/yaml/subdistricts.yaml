@@ -1,526 +1,736 @@
-subdistricts:
-  - id: 20101
-    district_id: 201
-    type: "thana"
-    name_en: "Chittagong City Corporation"
-    name_bn: "চট্টগ্রাম সিটি কর্পোরেশন"
-  - id: 20102
-    district_id: 201
-    type: "upazila"
-    name_en: "Patiya"
-    name_bn: "পটিয়া"
-  - id: 20103
-    district_id: 201
-    type: "upazila"
-    name_en: "Hathazari"
-    name_bn: "হাটহাজারী"
-  - id: 20104
-    district_id: 201
-    type: "upazila"
-    name_en: "Anwara"
-    name_bn: "আনোয়ারা"
-  - id: 20105
-    district_id: 201
-    type: "upazila"
-    name_en: "Boalkhali"
-    name_bn: "বোয়ালখালী"
-  - id: 20106
-    district_id: 201
-    type: "upazila"
-    name_en: "Chandanaish"
-    name_bn: "চন্দনাইশ"
-  - id: 20107
-    district_id: 201
-    type: "upazila"
-    name_en: "Satkania"
-    name_bn: "সাতকানিয়া"
-  - id: 20108
-    district_id: 201
-    type: "upazila"
-    name_en: "Lohagara"
-    name_bn: "লোহাগাড়া"
-  - id: 20109
-    district_id: 201
-    type: "upazila"
-    name_en: "Rangunia"
-    name_bn: "রাঙ্গুনিয়া"
-  - id: 20110
-    district_id: 201
-    type: "upazila"
-    name_en: "Raozan"
-    name_bn: "রাউজান"
-  - id: 20111
-    district_id: 201
-    type: "upazila"
-    name_en: "Sitakunda"
-    name_bn: "সীতাকুণ্ড"
-  - id: 20112
-    district_id: 201
-    type: "upazila"
-    name_en: "Mirsharai"
-    name_bn: "মীরসরাই"
-  - id: 20113
-    district_id: 201
-    type: "upazila"
-    name_en: "Sandwip"
-    name_bn: "সন্দ্বীপ"
-  - id: 20114
-    district_id: 201
-    type: "upazila"
-    name_en: "Fatikchhari"
-    name_bn: "ফটিকছড়ি"
-  - id: 20115
-    district_id: 201
-    type: "upazila"
-    name_en: "Banshkhali"
-    name_bn: "বাঁশখালী"
-  - id: 20116
-    district_id: 201
-    type: "upazila"
-    name_en: "Karnaphuli"
-    name_bn: "কর্ণফুলী"
-  - id: 20201
-    district_id: 202
-    type: "upazila"
-    name_en: "Cox's Bazar Sadar"
-    name_bn: "কক্সবাজার সদর"
-  - id: 20202
-    district_id: 202
-    type: "upazila"
-    name_en: "Chakaria"
-    name_bn: "চকরিয়া"
-  - id: 20203
-    district_id: 202
-    type: "upazila"
-    name_en: "Teknaf"
-    name_bn: "টেকনাফ"
-  - id: 20204
-    district_id: 202
-    type: "upazila"
-    name_en: "Ukhia"
-    name_bn: "উখিয়া"
-  - id: 20205
-    district_id: 202
-    type: "upazila"
-    name_en: "Ramu"
-    name_bn: "রামু"
-  - id: 20206
-    district_id: 202
-    type: "upazila"
-    name_en: "Pekua"
-    name_bn: "পেকুয়া"
-  - id: 20207
-    district_id: 202
-    type: "upazila"
-    name_en: "Maheshkhali"
-    name_bn: "মহেশখালী"
-  - id: 20208
-    district_id: 202
-    type: "upazila"
-    name_en: "Kutubdia"
-    name_bn: "কুতুবদিয়া"
-  - id: 20209
-    district_id: 202
-    type: "upazila"
-    name_en: "Eidgaon"
-    name_bn: "ঈদগাঁও"
-  - id: 20301
-    district_id: 203
-    type: "upazila"
-    name_en: "Rangamati Sadar"
-    name_bn: "রাঙামাটি সদর"
-  - id: 20302
-    district_id: 203
-    type: "upazila"
-    name_en: "Kaptai"
-    name_bn: "কাপ্তাই"
-  - id: 20303
-    district_id: 203
-    type: "upazila"
-    name_en: "Kawkhali"
-    name_bn: "কাউখালী"
-  - id: 20304
-    district_id: 203
-    type: "upazila"
-    name_en: "Baghaichhari"
-    name_bn: "বাঘাইছড়ি"
-  - id: 20305
-    district_id: 203
-    type: "upazila"
-    name_en: "Barkal"
-    name_bn: "বরকল"
-  - id: 20306
-    district_id: 203
-    type: "upazila"
-    name_en: "Jurachhari"
-    name_bn: "জুরাছড়ি"
-  - id: 20307
-    district_id: 203
-    type: "upazila"
-    name_en: "Longadu"
-    name_bn: "লংগদু"
-  - id: 20308
-    district_id: 203
-    type: "upazila"
-    name_en: "Naniarchar"
-    name_bn: "নানিয়ারচর"
-  - id: 20309
-    district_id: 203
-    type: "upazila"
-    name_en: "Rajasthali"
-    name_bn: "রাজস্থলী"
-  - id: 20310
-    district_id: 203
-    type: "upazila"
-    name_en: "Belaichhari"
-    name_bn: "বেলাছড়ি"
-  - id: 20401
-    district_id: 204
-    type: "upazila"
-    name_en: "Bandarban Sadar"
-    name_bn: "বান্দরবান সদর"
-  - id: 20402
-    district_id: 204
-    type: "upazila"
-    name_en: "Ruma"
-    name_bn: "রুমা"
-  - id: 20403
-    district_id: 204
-    type: "upazila"
-    name_en: "Thanchi"
-    name_bn: "থানচি"
-  - id: 20404
-    district_id: 204
-    type: "upazila"
-    name_en: "Rowangchhari"
-    name_bn: "রোয়াংছড়ি"
-  - id: 20405
-    district_id: 204
-    type: "upazila"
-    name_en: "Lama"
-    name_bn: "লামা"
-  - id: 20406
-    district_id: 204
-    type: "upazila"
-    name_en: "Alikadam"
-    name_bn: "আলীকদম"
-  - id: 20407
-    district_id: 204
-    type: "upazila"
-    name_en: "Naikhongchhari"
-    name_bn: "নাইক্ষ্যংছড়ি"
-  - id: 20501
-    district_id: 205
-    type: "upazila"
-    name_en: "Khagrachhari Sadar"
-    name_bn: "খাগড়াছড়ি সদর"
-  - id: 20502
-    district_id: 205
-    type: "upazila"
-    name_en: "Dighinala"
-    name_bn: "দীঘিনালা"
-  - id: 20503
-    district_id: 205
-    type: "upazila"
-    name_en: "Panchhari"
-    name_bn: "পানছড়ি"
-  - id: 20504
-    district_id: 205
-    type: "upazila"
-    name_en: "Matiranga"
-    name_bn: "মাটিরাঙ্গা"
-  - id: 20505
-    district_id: 205
-    type: "upazila"
-    name_en: "Guimara"
-    name_bn: "গুইমারা"
-  - id: 20506
-    district_id: 205
-    type: "upazila"
-    name_en: "Mahalchhari"
-    name_bn: "মহালছড়ি"
-  - id: 20507
-    district_id: 205
-    type: "upazila"
-    name_en: "Manikchhari"
-    name_bn: "মানিকছড়ি"
-  - id: 20508
-    district_id: 205
-    type: "upazila"
-    name_en: "Ramgarh"
-    name_bn: "রামগড়"
-  - id: 20509
-    district_id: 205
-    type: "upazila"
-    name_en: "Lakshmichhari"
-    name_bn: "লক্ষ্মীছড়ি"
-  - id: 20601
-    district_id: 206
-    type: "upazila"
-    name_en: "Adarsha Sadar"
-    name_bn: "আদর্শ সদর"
-  - id: 20602
-    district_id: 206
-    type: "upazila"
-    name_en: "Chouddagram"
-    name_bn: "চৌদ্দগ্রাম"
-  - id: 20603
-    district_id: 206
-    type: "upazila"
-    name_en: "Laksam"
-    name_bn: "লাকসাম"
-  - id: 20604
-    district_id: 206
-    type: "upazila"
-    name_en: "Barura"
-    name_bn: "বরুড়া"
-  - id: 20605
-    district_id: 206
-    type: "upazila"
-    name_en: "Burichang"
-    name_bn: "বুড়িচং"
-  - id: 20606
-    district_id: 206
-    type: "upazila"
-    name_en: "Brahmanpara"
-    name_bn: "ব্রাহ্মণপাড়া"
-  - id: 20607
-    district_id: 206
-    type: "upazila"
-    name_en: "Chandina"
-    name_bn: "চান্দিনা"
-  - id: 20608
-    district_id: 206
-    type: "upazila"
-    name_en: "Debidwar"
-    name_bn: "দেবিদ্বার"
-  - id: 20609
-    district_id: 206
-    type: "upazila"
-    name_en: "Muradnagar"
-    name_bn: "মুরাদনগর"
-  - id: 20610
-    district_id: 206
-    type: "upazila"
-    name_en: "Daudkandi"
-    name_bn: "দাউদকান্দি"
-  - id: 20611
-    district_id: 206
-    type: "upazila"
-    name_en: "Titas"
-    name_bn: "তিতাস"
-  - id: 20612
-    district_id: 206
-    type: "upazila"
-    name_en: "Homna"
-    name_bn: "হোমনা"
-  - id: 20613
-    district_id: 206
-    type: "upazila"
-    name_en: "Meghna"
-    name_bn: "মেঘনা"
-  - id: 20614
-    district_id: 206
-    type: "upazila"
-    name_en: "Manoharganj"
-    name_bn: "মনোহরগঞ্জ"
-  - id: 20615
-    district_id: 206
-    type: "upazila"
-    name_en: "Nangalkot"
-    name_bn: "নাঙ্গলকোট"
-  - id: 20616
-    district_id: 206
-    type: "upazila"
-    name_en: "Lalmai"
-    name_bn: "লালমাই"
-  - id: 20617
-    district_id: 206
-    type: "upazila"
-    name_en: "Sadar Dakshin"
-    name_bn: "সদর দক্ষিণ"
-  - id: 20701
-    district_id: 207
-    type: "upazila"
-    name_en: "Feni Sadar"
-    name_bn: "ফেনী সদর"
-  - id: 20702
-    district_id: 207
-    type: "upazila"
-    name_en: "Chhagalnaiya"
-    name_bn: "ছাগলনাইয়া"
-  - id: 20703
-    district_id: 207
-    type: "upazila"
-    name_en: "Fulgazi"
-    name_bn: "ফুলগাজী"
-  - id: 20704
-    district_id: 207
-    type: "upazila"
-    name_en: "Parshuram"
-    name_bn: "পরশুরাম"
-  - id: 20705
-    district_id: 207
-    type: "upazila"
-    name_en: "Daganbhuiyan"
-    name_bn: "দাগনভূঞা"
-  - id: 20706
-    district_id: 207
-    type: "upazila"
-    name_en: "Sonagazi"
-    name_bn: "সোনাগাজী"
-  - id: 20801
-    district_id: 208
-    type: "upazila"
-    name_en: "Noakhali Sadar"
-    name_bn: "নোয়াখালী সদর"
-  - id: 20802
-    district_id: 208
-    type: "upazila"
-    name_en: "Begumganj"
-    name_bn: "বেগমগঞ্জ"
-  - id: 20803
-    district_id: 208
-    type: "upazila"
-    name_en: "Chatkhil"
-    name_bn: "চাটখিল"
-  - id: 20804
-    district_id: 208
-    type: "upazila"
-    name_en: "Companiganj"
-    name_bn: "কোম্পানীগঞ্জ"
-  - id: 20805
-    district_id: 208
-    type: "upazila"
-    name_en: "Hatiya"
-    name_bn: "হাতিয়া"
-  - id: 20806
-    district_id: 208
-    type: "upazila"
-    name_en: "Senbagh"
-    name_bn: "সেনবাগ"
-  - id: 20807
-    district_id: 208
-    type: "upazila"
-    name_en: "Sonaimuri"
-    name_bn: "সোনাইমুড়ী"
-  - id: 20808
-    district_id: 208
-    type: "upazila"
-    name_en: "Subarnachar"
-    name_bn: "সুবর্ণচর"
-  - id: 20809
-    district_id: 208
-    type: "upazila"
-    name_en: "Kabirhat"
-    name_bn: "কবিরহাট"
-  - id: 20901
-    district_id: 209
-    type: "upazila"
-    name_en: "Lakshmipur Sadar"
-    name_bn: "লক্ষ্মীপুর সদর"
-  - id: 20902
-    district_id: 209
-    type: "upazila"
-    name_en: "Raypur"
-    name_bn: "রায়পুর"
-  - id: 20903
-    district_id: 209
-    type: "upazila"
-    name_en: "Ramganj"
-    name_bn: "রামগঞ্জ"
-  - id: 20904
-    district_id: 209
-    type: "upazila"
-    name_en: "Ramgati"
-    name_bn: "রামগতি"
-  - id: 20905
-    district_id: 209
-    type: "upazila"
-    name_en: "Kamalnagar"
-    name_bn: "কমলনগর"
-  - id: 21001
-    district_id: 210
-    type: "upazila"
-    name_en: "Chandpur Sadar"
-    name_bn: "চাঁদপুর সদর"
-  - id: 21002
-    district_id: 210
-    type: "upazila"
-    name_en: "Hajiganj"
-    name_bn: "হাজীগঞ্জ"
-  - id: 21003
-    district_id: 210
-    type: "upazila"
-    name_en: "Faridganj"
-    name_bn: "ফরিদগঞ্জ"
-  - id: 21004
-    district_id: 210
-    type: "upazila"
-    name_en: "Kachua"
-    name_bn: "কচুয়া"
-  - id: 21005
-    district_id: 210
-    type: "upazila"
-    name_en: "Matlab Dakshin"
-    name_bn: "মতলব দক্ষিণ"
-  - id: 21006
-    district_id: 210
-    type: "upazila"
-    name_en: "Matlab Uttar"
-    name_bn: "মতলব উত্তর"
-  - id: 21007
-    district_id: 210
-    type: "upazila"
-    name_en: "Shahrasti"
-    name_bn: "শাহরাস্তি"
-  - id: 21008
-    district_id: 210
-    type: "upazila"
-    name_en: "Haimchar"
-    name_bn: "হাইমচর"
-  - id: 21101
-    district_id: 211
-    type: "upazila"
-    name_en: "Brahmanbaria Sadar"
-    name_bn: "ব্রাহ্মণবাড়িয়া সদর"
-  - id: 21102
-    district_id: 211
-    type: "upazila"
-    name_en: "Ashuganj"
-    name_bn: "আশুগঞ্জ"
-  - id: 21103
-    district_id: 211
-    type: "upazila"
-    name_en: "Sarail"
-    name_bn: "সরাইল"
-  - id: 21104
-    district_id: 211
-    type: "upazila"
-    name_en: "Kasba"
-    name_bn: "কসবা"
-  - id: 21105
-    district_id: 211
-    type: "upazila"
-    name_en: "Akhaura"
-    name_bn: "আখাউড়া"
-  - id: 21106
-    district_id: 211
-    type: "upazila"
-    name_en: "Nabinagar"
-    name_bn: "নবীনগর"
-  - id: 21107
-    district_id: 211
-    type: "upazila"
-    name_en: "Bancharampur"
-    name_bn: "বাঞ্ছারামপুর"
-  - id: 21108
-    district_id: 211
-    type: "upazila"
-    name_en: "Nasirnagar"
-    name_bn: "নাসিরনগর"
-  - id: 21109
-    district_id: 211
-    type: "upazila"
-    name_en: "Bijoynagar"
-    name_bn: "বিজয়নগর"
+subdistricts: 
+  id: 10101
+  district_id: 101
+  type: "upazila"
+  name_en: "Barishal Sadar"
+  name_bn: "বরিশাল সদর"
+  id: 10102
+  district_id: 101
+  type: "upazila"
+  name_en: "Bakerganj"
+  name_bn: "বাকেরগঞ্জ"
+  id: 10103
+  district_id: 101
+  type: "upazila"
+  name_en: "Babuganj"
+  name_bn: "বাবুগঞ্জ"
+  id: 10104
+  district_id: 101
+  type: "upazila"
+  name_en: "Banaripara"
+  name_bn: "বানারীপাড়া"
+  id: 10105
+  district_id: 101
+  type: "upazila"
+  name_en: "Gournadi"
+  name_bn: "গৌরনদী"
+  id: 10106
+  district_id: 101
+  type: "upazila"
+  name_en: "Agailjhara"
+  name_bn: "আগৈলঝাড়া"
+  id: 10107
+  district_id: 101
+  type: "upazila"
+  name_en: "Hizla"
+  name_bn: "হিজলা"
+  id: 10108
+  district_id: 101
+  type: "upazila"
+  name_en: "Mehendiganj"
+  name_bn: "মেহেন্দিগঞ্জ"
+  id: 10109
+  district_id: 101
+  type: "upazila"
+  name_en: "Muladi"
+  name_bn: "মুলাদী"
+  id: 10110
+  district_id: 101
+  type: "upazila"
+  name_en: "Uzirpur"
+  name_bn: "উজিরপুর"
+  id: 10201
+  district_id: 102
+  type: "upazila"
+  name_en: "Patuakhali Sadar"
+  name_bn: "পটুয়াখালী সদর"
+  id: 10202
+  district_id: 102
+  type: "upazila"
+  name_en: "Bauphal"
+  name_bn: "বাউফল"
+  id: 10203
+  district_id: 102
+  type: "upazila"
+  name_en: "Galachipa"
+  name_bn: "গলাচিপা"
+  id: 10204
+  district_id: 102
+  type: "upazila"
+  name_en: "Kalapara"
+  name_bn: "কলাপাড়া"
+  id: 10205
+  district_id: 102
+  type: "upazila"
+  name_en: "Mirzaganj"
+  name_bn: "মির্জাগঞ্জ"
+  id: 10206
+  district_id: 102
+  type: "upazila"
+  name_en: "Dumki"
+  name_bn: "দুমকি"
+  id: 10207
+  district_id: 102
+  type: "upazila"
+  name_en: "Dashmina"
+  name_bn: "দশমিনা"
+  id: 10208
+  district_id: 102
+  type: "upazila"
+  name_en: "Rangabali"
+  name_bn: "রাঙ্গাবালী"
+  id: 10301
+  district_id: 103
+  type: "upazila"
+  name_en: "Bhola Sadar"
+  name_bn: "ভোলা সদর"
+  id: 10302
+  district_id: 103
+  type: "upazila"
+  name_en: "Borhanuddin"
+  name_bn: "বোরহানউদ্দিন"
+  id: 10303
+  district_id: 103
+  type: "upazila"
+  name_en: "Char Fasson"
+  name_bn: "চরফ্যাশন"
+  id: 10304
+  district_id: 103
+  type: "upazila"
+  name_en: "Daulatkhan"
+  name_bn: "দৌলতখান"
+  id: 10305
+  district_id: 103
+  type: "upazila"
+  name_en: "Lalmohan"
+  name_bn: "লালমোহন"
+  id: 10306
+  district_id: 103
+  type: "upazila"
+  name_en: "Monpura"
+  name_bn: "মনপুরা"
+  id: 10307
+  district_id: 103
+  type: "upazila"
+  name_en: "Tazumuddin"
+  name_bn: "তজুমদ্দিন"
+  id: 10401
+  district_id: 104
+  type: "upazila"
+  name_en: "Pirojpur Sadar"
+  name_bn: "পিরোজপুর সদর"
+  id: 10402
+  district_id: 104
+  type: "upazila"
+  name_en: "Bhandaria"
+  name_bn: "ভান্ডারিয়া"
+  id: 10403
+  district_id: 104
+  type: "upazila"
+  name_en: "Kawkhali"
+  name_bn: "কাউখালী"
+  id: 10404
+  district_id: 104
+  type: "upazila"
+  name_en: "Mathbaria"
+  name_bn: "মঠবাড়িয়া"
+  id: 10405
+  district_id: 104
+  type: "upazila"
+  name_en: "Nazirpur"
+  name_bn: "নাজিরপুর"
+  id: 10406
+  district_id: 104
+  type: "upazila"
+  name_en: "Nesarabad"
+  name_bn: "নেছারাবাদ"
+  id: 10407
+  district_id: 104
+  type: "upazila"
+  name_en: "Indurkani"
+  name_bn: "ইন্দুরকানি"
+  id: 10501
+  district_id: 105
+  type: "upazila"
+  name_en: "Barguna Sadar"
+  name_bn: "বরগুনা সদর"
+  id: 10502
+  district_id: 105
+  type: "upazila"
+  name_en: "Amtali"
+  name_bn: "আমতলী"
+  id: 10503
+  district_id: 105
+  type: "upazila"
+  name_en: "Bamna"
+  name_bn: "বামনা"
+  id: 10504
+  district_id: 105
+  type: "upazila"
+  name_en: "Betagi"
+  name_bn: "বেতাগী"
+  id: 10505
+  district_id: 105
+  type: "upazila"
+  name_en: "Patharghata"
+  name_bn: "পাথরঘাটা"
+  id: 10506
+  district_id: 105
+  type: "upazila"
+  name_en: "Taltali"
+  name_bn: "তালতলী"
+  id: 10601
+  district_id: 106
+  type: "upazila"
+  name_en: "Jhalokathi Sadar"
+  name_bn: "ঝালকাঠি সদর"
+  id: 10602
+  district_id: 106
+  type: "upazila"
+  name_en: "Nalchity"
+  name_bn: "নলছিটি"
+  id: 10603
+  district_id: 106
+  type: "upazila"
+  name_en: "Rajapur"
+  name_bn: "রাজাপুর"
+  id: 10604
+  district_id: 106
+  type: "upazila"
+  name_en: "Kathalia"
+  name_bn: "কাঁঠালিয়া"
+  id: 20101
+  district_id: 201
+  type: "thana"
+  name_en: "Chittagong City Corporation"
+  name_bn: "চট্টগ্রাম সিটি কর্পোরেশন"
+  id: 20102
+  district_id: 201
+  type: "upazila"
+  name_en: "Patiya"
+  name_bn: "পটিয়া"
+  id: 20103
+  district_id: 201
+  type: "upazila"
+  name_en: "Hathazari"
+  name_bn: "হাটহাজারী"
+  id: 20104
+  district_id: 201
+  type: "upazila"
+  name_en: "Anwara"
+  name_bn: "আনোয়ারা"
+  id: 20105
+  district_id: 201
+  type: "upazila"
+  name_en: "Boalkhali"
+  name_bn: "বোয়ালখালী"
+  id: 20106
+  district_id: 201
+  type: "upazila"
+  name_en: "Chandanaish"
+  name_bn: "চন্দনাইশ"
+  id: 20107
+  district_id: 201
+  type: "upazila"
+  name_en: "Satkania"
+  name_bn: "সাতকানিয়া"
+  id: 20108
+  district_id: 201
+  type: "upazila"
+  name_en: "Lohagara"
+  name_bn: "লোহাগাড়া"
+  id: 20109
+  district_id: 201
+  type: "upazila"
+  name_en: "Rangunia"
+  name_bn: "রাঙ্গুনিয়া"
+  id: 20110
+  district_id: 201
+  type: "upazila"
+  name_en: "Raozan"
+  name_bn: "রাউজান"
+  id: 20111
+  district_id: 201
+  type: "upazila"
+  name_en: "Sitakunda"
+  name_bn: "সীতাকুণ্ড"
+  id: 20112
+  district_id: 201
+  type: "upazila"
+  name_en: "Mirsharai"
+  name_bn: "মীরসরাই"
+  id: 20113
+  district_id: 201
+  type: "upazila"
+  name_en: "Sandwip"
+  name_bn: "সন্দ্বীপ"
+  id: 20114
+  district_id: 201
+  type: "upazila"
+  name_en: "Fatikchhari"
+  name_bn: "ফটিকছড়ি"
+  id: 20115
+  district_id: 201
+  type: "upazila"
+  name_en: "Banshkhali"
+  name_bn: "বাঁশখালী"
+  id: 20116
+  district_id: 201
+  type: "upazila"
+  name_en: "Karnaphuli"
+  name_bn: "কর্ণফুলী"
+  id: 20201
+  district_id: 202
+  type: "upazila"
+  name_en: "Cox's Bazar Sadar"
+  name_bn: "কক্সবাজার সদর"
+  id: 20202
+  district_id: 202
+  type: "upazila"
+  name_en: "Chakaria"
+  name_bn: "চকরিয়া"
+  id: 20203
+  district_id: 202
+  type: "upazila"
+  name_en: "Teknaf"
+  name_bn: "টেকনাফ"
+  id: 20204
+  district_id: 202
+  type: "upazila"
+  name_en: "Ukhia"
+  name_bn: "উখিয়া"
+  id: 20205
+  district_id: 202
+  type: "upazila"
+  name_en: "Ramu"
+  name_bn: "রামু"
+  id: 20206
+  district_id: 202
+  type: "upazila"
+  name_en: "Pekua"
+  name_bn: "পেকুয়া"
+  id: 20207
+  district_id: 202
+  type: "upazila"
+  name_en: "Maheshkhali"
+  name_bn: "মহেশখালী"
+  id: 20208
+  district_id: 202
+  type: "upazila"
+  name_en: "Kutubdia"
+  name_bn: "কুতুবদিয়া"
+  id: 20209
+  district_id: 202
+  type: "upazila"
+  name_en: "Eidgaon"
+  name_bn: "ঈদগাঁও"
+  id: 20301
+  district_id: 203
+  type: "upazila"
+  name_en: "Rangamati Sadar"
+  name_bn: "রাঙামাটি সদর"
+  id: 20302
+  district_id: 203
+  type: "upazila"
+  name_en: "Kaptai"
+  name_bn: "কাপ্তাই"
+  id: 20303
+  district_id: 203
+  type: "upazila"
+  name_en: "Kawkhali"
+  name_bn: "কাউখালী"
+  id: 20304
+  district_id: 203
+  type: "upazila"
+  name_en: "Baghaichhari"
+  name_bn: "বাঘাইছড়ি"
+  id: 20305
+  district_id: 203
+  type: "upazila"
+  name_en: "Barkal"
+  name_bn: "বরকল"
+  id: 20306
+  district_id: 203
+  type: "upazila"
+  name_en: "Jurachhari"
+  name_bn: "জুরাছড়ি"
+  id: 20307
+  district_id: 203
+  type: "upazila"
+  name_en: "Longadu"
+  name_bn: "লংগদু"
+  id: 20308
+  district_id: 203
+  type: "upazila"
+  name_en: "Naniarchar"
+  name_bn: "নানিয়ারচর"
+  id: 20309
+  district_id: 203
+  type: "upazila"
+  name_en: "Rajasthali"
+  name_bn: "রাজস্থলী"
+  id: 20310
+  district_id: 203
+  type: "upazila"
+  name_en: "Belaichhari"
+  name_bn: "বেলাছড়ি"
+  id: 20401
+  district_id: 204
+  type: "upazila"
+  name_en: "Bandarban Sadar"
+  name_bn: "বান্দরবান সদর"
+  id: 20402
+  district_id: 204
+  type: "upazila"
+  name_en: "Ruma"
+  name_bn: "রুমা"
+  id: 20403
+  district_id: 204
+  type: "upazila"
+  name_en: "Thanchi"
+  name_bn: "থানচি"
+  id: 20404
+  district_id: 204
+  type: "upazila"
+  name_en: "Rowangchhari"
+  name_bn: "রোয়াংছড়ি"
+  id: 20405
+  district_id: 204
+  type: "upazila"
+  name_en: "Lama"
+  name_bn: "লামা"
+  id: 20406
+  district_id: 204
+  type: "upazila"
+  name_en: "Alikadam"
+  name_bn: "আলীকদম"
+  id: 20407
+  district_id: 204
+  type: "upazila"
+  name_en: "Naikhongchhari"
+  name_bn: "নাইক্ষ্যংছড়ি"
+  id: 20501
+  district_id: 205
+  type: "upazila"
+  name_en: "Khagrachhari Sadar"
+  name_bn: "খাগড়াছড়ি সদর"
+  id: 20502
+  district_id: 205
+  type: "upazila"
+  name_en: "Dighinala"
+  name_bn: "দীঘিনালা"
+  id: 20503
+  district_id: 205
+  type: "upazila"
+  name_en: "Panchhari"
+  name_bn: "পানছড়ি"
+  id: 20504
+  district_id: 205
+  type: "upazila"
+  name_en: "Matiranga"
+  name_bn: "মাটিরাঙ্গা"
+  id: 20505
+  district_id: 205
+  type: "upazila"
+  name_en: "Guimara"
+  name_bn: "গুইমারা"
+  id: 20506
+  district_id: 205
+  type: "upazila"
+  name_en: "Mahalchhari"
+  name_bn: "মহালছড়ি"
+  id: 20507
+  district_id: 205
+  type: "upazila"
+  name_en: "Manikchhari"
+  name_bn: "মানিকছড়ি"
+  id: 20508
+  district_id: 205
+  type: "upazila"
+  name_en: "Ramgarh"
+  name_bn: "রামগড়"
+  id: 20509
+  district_id: 205
+  type: "upazila"
+  name_en: "Lakshmichhari"
+  name_bn: "লক্ষ্মীছড়ি"
+  id: 20601
+  district_id: 206
+  type: "upazila"
+  name_en: "Adarsha Sadar"
+  name_bn: "আদর্শ সদর"
+  id: 20602
+  district_id: 206
+  type: "upazila"
+  name_en: "Chouddagram"
+  name_bn: "চৌদ্দগ্রাম"
+  id: 20603
+  district_id: 206
+  type: "upazila"
+  name_en: "Laksam"
+  name_bn: "লাকসাম"
+  id: 20604
+  district_id: 206
+  type: "upazila"
+  name_en: "Barura"
+  name_bn: "বরুড়া"
+  id: 20605
+  district_id: 206
+  type: "upazila"
+  name_en: "Burichang"
+  name_bn: "বুড়িচং"
+  id: 20606
+  district_id: 206
+  type: "upazila"
+  name_en: "Brahmanpara"
+  name_bn: "ব্রাহ্মণপাড়া"
+  id: 20607
+  district_id: 206
+  type: "upazila"
+  name_en: "Chandina"
+  name_bn: "চান্দিনা"
+  id: 20608
+  district_id: 206
+  type: "upazila"
+  name_en: "Debidwar"
+  name_bn: "দেবিদ্বার"
+  id: 20609
+  district_id: 206
+  type: "upazila"
+  name_en: "Muradnagar"
+  name_bn: "মুরাদনগর"
+  id: 20610
+  district_id: 206
+  type: "upazila"
+  name_en: "Daudkandi"
+  name_bn: "দাউদকান্দি"
+  id: 20611
+  district_id: 206
+  type: "upazila"
+  name_en: "Titas"
+  name_bn: "তিতাস"
+  id: 20612
+  district_id: 206
+  type: "upazila"
+  name_en: "Homna"
+  name_bn: "হোমনা"
+  id: 20613
+  district_id: 206
+  type: "upazila"
+  name_en: "Meghna"
+  name_bn: "মেঘনা"
+  id: 20614
+  district_id: 206
+  type: "upazila"
+  name_en: "Manoharganj"
+  name_bn: "মনোহরগঞ্জ"
+  id: 20615
+  district_id: 206
+  type: "upazila"
+  name_en: "Nangalkot"
+  name_bn: "নাঙ্গলকোট"
+  id: 20616
+  district_id: 206
+  type: "upazila"
+  name_en: "Lalmai"
+  name_bn: "লালমাই"
+  id: 20617
+  district_id: 206
+  type: "upazila"
+  name_en: "Sadar Dakshin"
+  name_bn: "সদর দক্ষিণ"
+  id: 20701
+  district_id: 207
+  type: "upazila"
+  name_en: "Feni Sadar"
+  name_bn: "ফেনী সদর"
+  id: 20702
+  district_id: 207
+  type: "upazila"
+  name_en: "Chhagalnaiya"
+  name_bn: "ছাগলনাইয়া"
+  id: 20703
+  district_id: 207
+  type: "upazila"
+  name_en: "Fulgazi"
+  name_bn: "ফুলগাজী"
+  id: 20704
+  district_id: 207
+  type: "upazila"
+  name_en: "Parshuram"
+  name_bn: "পরশুরাম"
+  id: 20705
+  district_id: 207
+  type: "upazila"
+  name_en: "Daganbhuiyan"
+  name_bn: "দাগনভূঞা"
+  id: 20706
+  district_id: 207
+  type: "upazila"
+  name_en: "Sonagazi"
+  name_bn: "সোনাগাজী"
+  id: 20801
+  district_id: 208
+  type: "upazila"
+  name_en: "Noakhali Sadar"
+  name_bn: "নোয়াখালী সদর"
+  id: 20802
+  district_id: 208
+  type: "upazila"
+  name_en: "Begumganj"
+  name_bn: "বেগমগঞ্জ"
+  id: 20803
+  district_id: 208
+  type: "upazila"
+  name_en: "Chatkhil"
+  name_bn: "চাটখিল"
+  id: 20804
+  district_id: 208
+  type: "upazila"
+  name_en: "Companiganj"
+  name_bn: "কোম্পানীগঞ্জ"
+  id: 20805
+  district_id: 208
+  type: "upazila"
+  name_en: "Hatiya"
+  name_bn: "হাতিয়া"
+  id: 20806
+  district_id: 208
+  type: "upazila"
+  name_en: "Senbagh"
+  name_bn: "সেনবাগ"
+  id: 20807
+  district_id: 208
+  type: "upazila"
+  name_en: "Sonaimuri"
+  name_bn: "সোনাইমুড়ী"
+  id: 20808
+  district_id: 208
+  type: "upazila"
+  name_en: "Subarnachar"
+  name_bn: "সুবর্ণচর"
+  id: 20809
+  district_id: 208
+  type: "upazila"
+  name_en: "Kabirhat"
+  name_bn: "কবিরহাট"
+  id: 20901
+  district_id: 209
+  type: "upazila"
+  name_en: "Lakshmipur Sadar"
+  name_bn: "লক্ষ্মীপুর সদর"
+  id: 20902
+  district_id: 209
+  type: "upazila"
+  name_en: "Raypur"
+  name_bn: "রায়পুর"
+  id: 20903
+  district_id: 209
+  type: "upazila"
+  name_en: "Ramganj"
+  name_bn: "রামগঞ্জ"
+  id: 20904
+  district_id: 209
+  type: "upazila"
+  name_en: "Ramgati"
+  name_bn: "রামগতি"
+  id: 20905
+  district_id: 209
+  type: "upazila"
+  name_en: "Kamalnagar"
+  name_bn: "কমলনগর"
+  id: 21001
+  district_id: 210
+  type: "upazila"
+  name_en: "Chandpur Sadar"
+  name_bn: "চাঁদপুর সদর"
+  id: 21002
+  district_id: 210
+  type: "upazila"
+  name_en: "Hajiganj"
+  name_bn: "হাজীগঞ্জ"
+  id: 21003
+  district_id: 210
+  type: "upazila"
+  name_en: "Faridganj"
+  name_bn: "ফরিদগঞ্জ"
+  id: 21004
+  district_id: 210
+  type: "upazila"
+  name_en: "Kachua"
+  name_bn: "কচুয়া"
+  id: 21005
+  district_id: 210
+  type: "upazila"
+  name_en: "Matlab Dakshin"
+  name_bn: "মতলব দক্ষিণ"
+  id: 21006
+  district_id: 210
+  type: "upazila"
+  name_en: "Matlab Uttar"
+  name_bn: "মতলব উত্তর"
+  id: 21007
+  district_id: 210
+  type: "upazila"
+  name_en: "Shahrasti"
+  name_bn: "শাহরাস্তি"
+  id: 21008
+  district_id: 210
+  type: "upazila"
+  name_en: "Haimchar"
+  name_bn: "হাইমচর"
+  id: 21101
+  district_id: 211
+  type: "upazila"
+  name_en: "Brahmanbaria Sadar"
+  name_bn: "ব্রাহ্মণবাড়িয়া সদর"
+  id: 21102
+  district_id: 211
+  type: "upazila"
+  name_en: "Ashuganj"
+  name_bn: "আশুগঞ্জ"
+  id: 21103
+  district_id: 211
+  type: "upazila"
+  name_en: "Sarail"
+  name_bn: "সরাইল"
+  id: 21104
+  district_id: 211
+  type: "upazila"
+  name_en: "Kasba"
+  name_bn: "কসবা"
+  id: 21105
+  district_id: 211
+  type: "upazila"
+  name_en: "Akhaura"
+  name_bn: "আখাউড়া"
+  id: 21106
+  district_id: 211
+  type: "upazila"
+  name_en: "Nabinagar"
+  name_bn: "নবীনগর"
+  id: 21107
+  district_id: 211
+  type: "upazila"
+  name_en: "Bancharampur"
+  name_bn: "বাঞ্ছারামপুর"
+  id: 21108
+  district_id: 211
+  type: "upazila"
+  name_en: "Nasirnagar"
+  name_bn: "নাসিরনগর"
+  id: 21109
+  district_id: 211
+  type: "upazila"
+  name_en: "Bijoynagar"
+  name_bn: "বিজয়নগর"
