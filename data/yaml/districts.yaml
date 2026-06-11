@@ -1,25 +1,69 @@
-districts: 
-  id: 101
-  division_id: 1
-  name_en: "Barishal"
-  name_bn: "বরিশাল"
-  id: 102
-  division_id: 1
-  name_en: "Patuakhali"
-  name_bn: "পটুয়াখালী"
-  id: 103
-  division_id: 1
-  name_en: "Bhola"
-  name_bn: "ভোলা"
-  id: 104
-  division_id: 1
-  name_en: "Pirojpur"
-  name_bn: "পিরোজপুর"
-  id: 105
-  division_id: 1
-  name_en: "Barguna"
-  name_bn: "বরগুনা"
-  id: 106
-  division_id: 1
-  name_en: "Jhalokathi"
-  name_bn: "ঝালকাঠি"
+districts:
+  - id: 101
+    division_id: 1
+    name_en: "Barishal"
+    name_bn: "বরিশাল"
+  - id: 102
+    division_id: 1
+    name_en: "Patuakhali"
+    name_bn: "পটুয়াখালী"
+  - id: 103
+    division_id: 1
+    name_en: "Bhola"
+    name_bn: "ভোলা"
+  - id: 104
+    division_id: 1
+    name_en: "Pirojpur"
+    name_bn: "পিরোজপুর"
+  - id: 105
+    division_id: 1
+    name_en: "Barguna"
+    name_bn: "বরগুনা"
+  - id: 106
+    division_id: 1
+    name_en: "Jhalokathi"
+    name_bn: "ঝালকাঠি"
+  - id: 201
+    division_id: 2
+    name_en: "Chittagong"
+    name_bn: "চট্টগ্রাম"
+  - id: 202
+    division_id: 2
+    name_en: "Cox's Bazar"
+    name_bn: "কক্সবাজার"
+  - id: 203
+    division_id: 2
+    name_en: "Rangamati"
+    name_bn: "রাঙামাটি"
+  - id: 204
+    division_id: 2
+    name_en: "Bandarban"
+    name_bn: "বান্দরবান"
+  - id: 205
+    division_id: 2
+    name_en: "Khagrachhari"
+    name_bn: "খাগড়াছড়ি"
+  - id: 206
+    division_id: 2
+    name_en: "Cumilla"
+    name_bn: "কুমিল্লা"
+  - id: 207
+    division_id: 2
+    name_en: "Feni"
+    name_bn: "ফেনী"
+  - id: 208
+    division_id: 2
+    name_en: "Noakhali"
+    name_bn: "নোয়াখালী"
+  - id: 209
+    division_id: 2
+    name_en: "Lakshmipur"
+    name_bn: "লক্ষ্মীপুর"
+  - id: 210
+    division_id: 2
+    name_en: "Chandpur"
+    name_bn: "চাঁদপুর"
+  - id: 211
+    division_id: 2
+    name_en: "Brahmanbaria"
+    name_bn: "ব্রাহ্মণবাড়িয়া"

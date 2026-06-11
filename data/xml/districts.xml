@@ -37,5 +37,71 @@
       <name_en>Jhalokathi</name_en>
       <name_bn>ঝালকাঠি</name_bn>
     </district>
+    <district>
+      <id>201</id>
+      <division_id>2</division_id>
+      <name_en>Chittagong</name_en>
+      <name_bn>চট্টগ্রাম</name_bn>
+    </district>
+    <district>
+      <id>202</id>
+      <division_id>2</division_id>
+      <name_en>Cox's Bazar</name_en>
+      <name_bn>কক্সবাজার</name_bn>
+    </district>
+    <district>
+      <id>203</id>
+      <division_id>2</division_id>
+      <name_en>Rangamati</name_en>
+      <name_bn>রাঙামাটি</name_bn>
+    </district>
+    <district>
+      <id>204</id>
+      <division_id>2</division_id>
+      <name_en>Bandarban</name_en>
+      <name_bn>বান্দরবান</name_bn>
+    </district>
+    <district>
+      <id>205</id>
+      <division_id>2</division_id>
+      <name_en>Khagrachhari</name_en>
+      <name_bn>খাগড়াছড়ি</name_bn>
+    </district>
+    <district>
+      <id>206</id>
+      <division_id>2</division_id>
+      <name_en>Cumilla</name_en>
+      <name_bn>কুমিল্লা</name_bn>
+    </district>
+    <district>
+      <id>207</id>
+      <division_id>2</division_id>
+      <name_en>Feni</name_en>
+      <name_bn>ফেনী</name_bn>
+    </district>
+    <district>
+      <id>208</id>
+      <division_id>2</division_id>
+      <name_en>Noakhali</name_en>
+      <name_bn>নোয়াখালী</name_bn>
+    </district>
+    <district>
+      <id>209</id>
+      <division_id>2</division_id>
+      <name_en>Lakshmipur</name_en>
+      <name_bn>লক্ষ্মীপুর</name_bn>
+    </district>
+    <district>
+      <id>210</id>
+      <division_id>2</division_id>
+      <name_en>Chandpur</name_en>
+      <name_bn>চাঁদপুর</name_bn>
+    </district>
+    <district>
+      <id>211</id>
+      <division_id>2</division_id>
+      <name_en>Brahmanbaria</name_en>
+      <name_bn>ব্রাহ্মণবাড়িয়া</name_bn>
+    </district>
   </districts>
 </data>
